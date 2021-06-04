@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    --main-font: 'Raleway', sans-serif;
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+}
+
+body {
+    font-family: var(--main-font);
+    display: grid;
+    grid-template-columns: [side] 30vw [main] 60vw;
+    grid-template-rows: [head] 10rem [body] auto [foot] 10rem;
+}
+
+body > header {
+    grid-column: side / span 2;
+}
+
+body > aside {
+    margin: 0;
+    padding: 0;
+}
+
+body > main {
+    margin: 0;
+    padding: 0;
+}

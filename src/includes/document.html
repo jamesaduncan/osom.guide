@@ -1,0 +1,15 @@
+---
+---
+<html lang="en">
+  {% include 'headtag.html' %}
+  <body>
+    <header>this is the header</header>
+
+    <aside>this is the sidebar</aside>
+    <main>
+      {{ content | safe }}
+    </main>
+    
+    <footer>this is the footer</footer>
+  </body>
+</html>

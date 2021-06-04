@@ -1,0 +1,19 @@
+{
+  "name": "osom.guide",
+  "version": "1.0.0",
+  "description": "A guide to the Organised Services Operating Model",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap"
+  },
+  "keywords": [
+    "OSOM",
+    "guide",
+    "website"
+  ],
+  "author": "James A. Duncan <james@stance.global>",
+  "license": "ISC",
+  "dependencies": {
+    "nunjucks": "^3.2.3"
+  }
+}
