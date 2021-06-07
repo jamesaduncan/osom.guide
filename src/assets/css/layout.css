@@ -102,6 +102,12 @@ body > header {
 
 body > footer {
     grid-column: side / span 2;
+    font-size: .8em;
+}
+
+body > footer > p {
+    margin-left: 1em;
+    max-width: 60%;
 }
 
 body > main {
