@@ -28,3 +28,16 @@ variety of mechanisms documented in the terms of reference.
 The executive also has a role in advocating and monitoring the
 adoption of [doctrine](/doctrine) throughout the organisation, which is a
 collection of 40 universally useful patterns of behaviour.
+
+## The Service Network
+
+OSOM Services address the needs of users. For any given service, the
+users may be external to the organisation, internal, or a mixture of
+both.
+
+Each service is built & operated by a Service Manager, who is
+accountable for the service and the team it requires in all its
+lifecycle phases - from discovery until its eventual retirement.
+
+Services can and should depend upon each other, forming a network of
+services, rather than a heirarchy of management.
