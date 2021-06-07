@@ -19,7 +19,7 @@ and governs a network of services as they progress through a simple
 [service lifecycle](/lifecycle) that is compatible with the [Government
 Digital Service's](https://www.gov.uk/government/organisations/government-digital-service) [service manual](https://www.gov.uk/service-manual).
 
-## Previous documentation
+### Previous documentation
 
 This site is an evolution of the original [OSOM
 documentation](http://stance.consulting/osom/). While the

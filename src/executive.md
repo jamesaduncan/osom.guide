@@ -15,17 +15,16 @@ collection of 40 universally useful patterns of behaviour.
 
 ## The executive
 
-The executive holds the accountability and responsibility
-for the entire scope of the organisation. This includes both the
-service network and the executive team.  Membership of the executive
-team In an ideal organisation, there would be no requirement for an
-executive team. The responsibilities held by the executive, and the
-activities required to act upon those responsibilities would be
-conducted entirely by a single individual. However, given constraints
-of time, complexity and expertise it is unlikely to be
-possible. Therefore the executive is responsible for augmenting their
-skills with the addition of executive team members who speak with the
-voice of the executive.
+The executive holds the accountability and responsibility for the
+entire scope of the organisation. This includes both the service
+network and the executive team.  Membership of the executive team In
+an ideal organisation, there would be no requirement for an executive
+team. The responsibilities held by the executive, and the activities
+required to act upon those responsibilities would be conducted
+entirely by a single individual. However, given constraints of time,
+complexity and expertise it is unlikely to be possible. Therefore the
+executive is responsible for augmenting their skills with the addition
+of executive team members who speak with the voice of the executive.
 
 Members of the executive team have authority delegated to them
 entirely by the executive who may task them with areas of interest as
@@ -139,15 +138,16 @@ spelt out in that contract.
 ## Review Correction of Error documents
 
 When problems arise inside services, Service Managers are expected to
-publish Correction of Error (CoE) documents to the organisation, which
+publish [Correction of Error](/coe) (CoE) documents to the organisation, which
 help it to learn and grow. The executive should review and consider
 those CoE documents to understand if there is additional guidance that
 should be considered for publication.
 
 The executive should consider conducting a regular meeting with all
-Service Managers where CoE documents are reviewed publicly, to ensure
+Service Managers where CoE documents are reviewed publicly to ensure
 a high level of awareness of opportunities for improvement throughout
 the organisation’s service network.
+
 
 ## Consider and publish guidance
 
