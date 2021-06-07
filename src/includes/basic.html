@@ -3,6 +3,10 @@
 <html lang="en">
   {% include 'headtag.html' %}
   <body>
-    {{ content | safe }}
+    <main>
+      {{ content | safe }}
+    </main>
+    
+    {% include 'footer.html' %}    
   </body>
 </html>
