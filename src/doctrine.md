@@ -14,8 +14,7 @@ behave: whether it’s assumptions being challenged freely and often,
 ensuring the user needs are focused upon, embracing uncertainty, or
 using failure as a tool, amongst others.
 
-By constantly evaluating against the doctrine, and by striving to turn
-the 40 patterns of behaviour into d text has been derived from [Simon Wardley's writings on
+This text has been derived from [Simon Wardley's writings on
 medium](http://medium.com/wardleymaps) and in
 [Wardleypedia](https://wardleypedia.org/mediawiki/index.php/Doctrine_Patterns)
 
