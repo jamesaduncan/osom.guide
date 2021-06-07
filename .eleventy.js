@@ -40,7 +40,7 @@ module.exports = function(eleventyConfig) {
     
     let md = markdownIt({
 	html: true,
-	breaks: true,
+	breaks: false,
 	linkify: true
     }).use(markdownItAnchor, {
 	slugify: markdownItSlugify,
