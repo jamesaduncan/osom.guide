@@ -40,7 +40,7 @@ The executive has a number of roles and responsibilities in OSOM:
 1. Review and analyse fitness data & maps
 1. Issue mandates to manipulate the service network
 1. Review Correction of Error documents
-1. Consider and publish guidance
+1. Consider, publish and endorse guidance
 1. Endorse Communities of Practice
 1. Mediate between services
 1. Monitor and advocate doctrine
@@ -127,6 +127,8 @@ service network? Are there services that should be challenged to
 industrialize their delivery? Are there services that should be
 decommissioned?
 
+Benefits realization should be reported through these mechanisms.
+
 ## Issue mandates to manipulate the service network
 
 When changes to services or the service network are foreseen or
@@ -148,8 +150,7 @@ Service Managers where CoE documents are reviewed publicly to ensure
 a high level of awareness of opportunities for improvement throughout
 the organisation’s service network.
 
-
-## Consider and publish guidance
+## Consider, publish and endorse guidance
 
 The executive is responsible for considering and publishing guidance
 that it considers relevant for its service managers to consider. This
@@ -203,22 +204,3 @@ context. Each of the elements of OSOM has been designed in conjunction
 with the application of those behaviours, and the executive is
 responsible for constantly being aware of opportunities to alter the
 operating model more in line with doctrine where needed.
-
-# Implementation Notes
-
-Interaction with other parts of of the organisation Although OSOM is
-designed to operate an entire organisation, in the case that OSOM is
-being implemented in a specific part of the organisation the
-governance structures outside of OSOM need to be considered.
-
-The general principle should be that the governance structures flow
-entirely through the executive. Service managers should be responsible
-for delivery of their services directly to their users and should
-communicate with them directly, or with someone who acts on their
-behalf to represent them.
-
-If the user or the user representative feels that they have concerns
-that are not being addressed they should deal with the service first,
-and if that fails, then with the executive.
-
-
