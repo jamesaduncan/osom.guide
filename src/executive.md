@@ -5,12 +5,6 @@ subtitle: Executive Terms of Reference
 
 ## Introduction
 
-The Organised Services Operating Model (OSOM) is a template operating
-model to help organisations who are adopting a service-based approach
-to delivering to their users. This is in opposition to a functional
-model, where capabilities are grouped by skills and ownership of the
-delivery to users is an endeavour shared between those functions.
-
 The OSOM executive both governs the network of services and holds the
 managers of those services to account through the variety of
 mechanisms documented in the terms of reference.
