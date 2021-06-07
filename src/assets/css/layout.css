@@ -1,20 +1,98 @@
-* {
+*,
+*::before,
+*::after {
     box-sizing: border-box;
+}
+
+ul[class],
+ol[class] {
+    padding: 0;
+    list-style: none;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+  scroll-behavior: smooth;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+}
+
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+
+/* Make images easier to work with */
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* Natural flow and rhythm in articles by default */
+main > * + *,
+article > * + * {
+  margin-top: 1em;
+}
+
+/* Inherit fonts for inputs and buttons */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+/* 
+   Remove all animations and transitions for people that prefer
+   not to see them
+*/
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }
 
 html {
     --main-font: 'Raleway', sans-serif;
-    box-sizing: border-box;
 }
 
 h1, h2, h3, h4, h5, h6 {
+    padding-top: 0;
+    margin-top: .5em;
+    margin-bottom: .25em;
     font-weight: normal;
 }
 
+/* structure paragraphs with some spacing at the top and bottom
+p {
+    margin-top: .25em;
+    margin-bottom: .25em;
+}
+*/
+
 body {
+    margin: 0;
     font-family: var(--main-font);
     display: grid;
-    grid-template-columns: [side] 30vw [main] 60vw;
+    grid-template-columns: [side] 30vw [content] 60vw;
     grid-template-rows: [head] 10rem [body] auto [foot] 10rem;
 }
 
@@ -22,12 +100,22 @@ body > header {
     grid-column: side / span 2;
 }
 
-body > aside {
-    margin: 0;
-    padding: 0;
+body > footer {
+    grid-column: side / span 2;
 }
 
 body > main {
     margin: 0;
     padding: 0;
+    border-left: 1px solid #eee;
+    padding-left: 1rem;
+}
+
+main > :first-child {
+    margin-top: 0;
+}
+
+header,
+aside {
+    padding-left: 1rem;
 }

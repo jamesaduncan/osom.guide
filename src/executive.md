@@ -1,11 +1,9 @@
 ---
 layout: document
+subtitle: Executive Terms of Reference
 ---
-# OSOM Executive
-## Terms of Reference
-## Version 1.0
 
-# Introduction
+## Introduction
 
 The Organised Services Operating Model (OSOM) is a template operating
 model to help organisations who are adopting a service-based approach
@@ -18,10 +16,10 @@ managers of those services to account through the variety of
 mechanisms documented in the terms of reference.
 
 The executive also has a role in advocating and monitoring the
-adoption of Doctrine throughout the organisation, which is a
+adoption of doctrine throughout the organisation, which is a
 collection of 40 universally useful patterns of behaviour.
 
-# The executive
+## The executive
 
 The executive holds the accountability and responsibility
 for the entire scope of the organisation. This includes both the
@@ -35,9 +33,13 @@ possible. Therefore the executive is responsible for augmenting their
 skills with the addition of executive team members who speak with the
 voice of the executive.
 
-Members of the executive team have authority delegated to them entirely by the executive who may task them with areas of interest as they see fit. However, when members of the executive team act, they do so entirely in the scope of the executive’s accountability and responsibility and have no individual portfolio per se of their own.
+Members of the executive team have authority delegated to them
+entirely by the executive who may task them with areas of interest as
+they see fit. However, when members of the executive team act, they do
+so entirely in the scope of the executive’s accountability and
+responsibility and have no individual portfolio per se of their own.
 
-# The role of the executive
+## The role of the executive
 
 The executive has a number of roles and responsibilities in OSOM:
 
@@ -48,7 +50,7 @@ The executive has a number of roles and responsibilities in OSOM:
 1. Consider and publish guidance
 1. Endorse Communities of Practice
 1. Mediate between services
-1. Monitor and advocate Doctrine
+1. Monitor and advocate doctrine
 
 
 ## Establish, decommission, assess, alter, and hold services accountable
@@ -57,81 +59,9 @@ The primary role of the executive is to establish services; conduct
 assessments on them as they progress from discovery to alpha, alpha to
 beta, and beta to live; disband the services when no longer needed,
 and hold the managers of those services accountable throughout the
-service lifecycle.
+[service lifecycle](/lifecycle).
 
-### Service lifecycle
-
-The service lifecycle defines how services mature from an initial
-concept, through to production, and are eventually decommissioned. At
-each stage of the lifecycle there can be different general
-expectations of performance and reliability, and there are different
-activities that need to take place.
-
-#### Discovery
-
-In discovery, a service contract has been written that proposes
-answering a number of hypothetical user needs, but the goal of the
-phase is to understand the problem that needs to be solved and refine
-the service contract prior to entering the alpha phase.
-
-In the discovery phase, none of the user needs of the contract are ever met.
-
-For more information, see the GDS documentation on discovery.
-
-#### Alpha
-
-When a service is in its alpha phase it is trying to find a solution
-to the problem established in the service contract. In the alpha
-phase, potential implementations are being tested and validated to
-understand the most suitable approach. At the end of the alpha phase
-the interface a service presents to the world is considered and
-established, which will allow the service contract to be refined prior
-to entering the beta phase.
-
-In the alpha phase, it is expected that some of the user needs may be
-met some of the time.
-
-For more information, see the GDS documentation on alpha.
-
-#### Beta
-
-A service that is in its beta phase is being actively built to a set
-of user needs identified in discovery, with the goal of servicing
-those needs. In the beta phase, the approach decided upon in the alpha
-phase is adopted, and the primary focus is on the implementation and
-delivery of the service. This means that preparations are underway to
-operate the service as if it were live.
-
-In the beta phase, it is expected that some of the user needs are met,
-most of the time.
-
-For more information, see the GDS documentation on beta.
-
-#### Live
-
-A live service is one that is actively being used by the users whose
-needs it is designed to meet. The service needs to meet its user
-needs, its operational goals, and improve itself over time - either by
-meeting the needs of its users more effectively or by making the
-mechanism by which it meets those needs more efficient. Eventually,
-the service will be decommissioned and the service should publish
-consideration of how users might migrate away from it.
-
-In the live phase, it is expected that all of the user needs are met
-all of the time.
-
-For more information, see the GDS documentation on live.
-
-#### Decommissioned
-
-A decommissioned service is one that is no longer operating. The
-reasons for its decommissioning should be recorded in its service
-contract to ensure that the organisation doesn’t forget lessons that
-it may have learned from operating it.
-
-
-
-## Establish Services
+### Establish Services
 
 The Executive establishes a service by publishing a Service Contract
 and appointing a Service Manager for the service. Typically, a new
@@ -145,7 +75,7 @@ already exists. In this case, the service may not progress through the
 service lifecycle as normal, but in all other respects should be
 governed as any other service.
 
-## Assess services
+### Assess services
 
 Services should be assessed at every stage in their lifecycle, as they
 progress from:
@@ -157,7 +87,7 @@ progress from:
 Once a service has reached its live state, regular assessments should
 be conducted to understand service improvements and changes over time.
 
-## Decommission services
+### Decommission services
 
 In order to ensure the organisation functions both efficiently and
 effectively, the Executive should decommission a service when either:
@@ -166,7 +96,7 @@ effectively, the Executive should decommission a service when either:
 * another service better meets the user's needs or...
 * the user’s needs no longer exist.
 
-## Alter services
+### Alter services
 
 Occasionally a service contract as written and established through the
 service lifecycle will require alteration - a new user need may be
@@ -176,7 +106,7 @@ adjusted.
 The executive can do this, but should only do so sparingly: a contract
 change has associated risks that should not be ignored.
 
-## Hold services accountable
+### Hold services accountable
 
 The Executive is responsible for holding Service Managers accountable
 for the services they operate. This includes performance, conformance
@@ -191,10 +121,9 @@ Manager if it sees fit.
 ## Review and analyse fitness data & maps
 
 The executive reviews and analyses fitness data published by services,
-and Wardley Maps of each service produced by their Service Managers.
-
-The fitness data is used to understand the performance of the service:
-is it meeting the needs of the users as intended?
+and Wardley Maps of each service produced by their Service
+Managers. The fitness data is used to understand the performance of
+the service: is it meeting the needs of the users as intended?
 
 Wardley Maps of each service should be maintained by their respective
 Service Manager. The executive uses Wardley Maps to consider the
@@ -281,7 +210,7 @@ with the application of those behaviours, and the executive is
 responsible for constantly being aware of opportunities to alter the
 operating model more in line with doctrine where needed.
 
-## Implementation Notes
+# Implementation Notes
 
 Interaction with other parts of of the organisation Although OSOM is
 designed to operate an entire organisation, in the case that OSOM is
