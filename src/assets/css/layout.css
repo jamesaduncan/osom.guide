@@ -72,6 +72,7 @@ select {
 
 html {
     --main-font: 'Raleway', sans-serif;
+    --text-color: black;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -94,6 +95,8 @@ body {
     display: grid;
     grid-template-columns: [side] 30vw [content] 60vw;
     grid-template-rows: [head] 10rem [body] auto [foot] 10rem;
+
+    color: var(--text-color);
 }
 
 body > header {
@@ -124,4 +127,12 @@ main > :first-child {
 header,
 aside {
     padding-left: 1rem;
+}
+
+header a {
+    text-decoration: none;
+}
+
+header a:visited {
+    color: var(--text-color);
 }
