@@ -4,12 +4,7 @@ title: OSOM Guide
 <html lang="en">
   {% include 'headtag.html' %}
   <body>
-    <header>
-      <h1>
-	<a href="/">{% if title %}{{ title }}{% else %}OSOM{% endif %}</a>
-      </h1>
-      {% if subtitle %}<h2>{{ subtitle }}</h2>{% endif %}
-    </header>
+    {% include 'header.html' %}
 
     <aside>{{ content | toc | safe }}</aside>
 
