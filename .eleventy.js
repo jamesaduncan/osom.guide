@@ -10,6 +10,7 @@ let TOC = require('eleventy-plugin-toc');
 module.exports = function(eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy("src/assets/css");
+    eleventyConfig.addPassthroughCopy("src/assets/img");
     eleventyConfig.addPlugin(TOC);
 
     function removeExtraText(s) {
