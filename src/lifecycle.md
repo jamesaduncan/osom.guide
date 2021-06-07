@@ -18,7 +18,7 @@ the service contract prior to entering the alpha phase.
 
 In the discovery phase, none of the user needs of the contract are ever met.
 
-For more information, see the GDS documentation on discovery.
+For more information, see the GDS documentation on [discovery](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works).
 
 ## Alpha
 
@@ -33,7 +33,7 @@ to entering the beta phase.
 In the alpha phase, it is expected that some of the user needs may be
 met some of the time.
 
-For more information, see the GDS documentation on alpha.
+For more information, see the GDS documentation on [alpha](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works).
 
 ## Beta
 
@@ -47,7 +47,7 @@ operate the service as if it were live.
 In the beta phase, it is expected that some of the user needs are met,
 most of the time.
 
-For more information, see the GDS documentation on beta.
+For more information, see the GDS documentation on [beta](https://www.gov.uk/service-manual/agile-delivery/how-the-beta-phase-works).
 
 ## Live
 
@@ -62,7 +62,7 @@ consideration of how users might migrate away from it.
 In the live phase, it is expected that all of the user needs are met
 all of the time.
 
-For more information, see the GDS documentation on live.
+For more information, see the GDS documentation on [live](https://www.gov.uk/service-manual/agile-delivery/how-the-live-phase-works).
 
 ## Decommissioned
 
@@ -70,4 +70,6 @@ A decommissioned service is one that is no longer operating. The
 reasons for its decommissioning should be recorded in its service
 contract to ensure that the organisation doesn’t forget lessons that
 it may have learned from operating it.
+
+For more information, see the GDS documentation on [retiring a service](https://www.gov.uk/service-manual/agile-delivery/retiring-your-service).
 
