@@ -93,7 +93,7 @@ body {
     margin: 0;
     font-family: var(--main-font);
     display: grid;
-    grid-template-columns: [side] 30vw [content] 60vw;
+    grid-template-columns: [side] 30vw [content] 40vw;
     grid-template-rows: [head] 10rem [body] auto [foot] 10rem;
 
     color: var(--text-color);
@@ -127,6 +127,10 @@ main > :first-child {
 header,
 aside {
     padding-left: 1rem;
+}
+
+aside {
+    padding-right: 1rem;
 }
 
 header a {
