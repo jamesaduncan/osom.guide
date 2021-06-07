@@ -19,6 +19,8 @@ the 40 patterns of behaviour into d text has been derived from [Simon Wardley's 
 medium](http://medium.com/wardleymaps) and in
 [Wardleypedia](https://wardleypedia.org/mediawiki/index.php/Doctrine_Patterns)
 
+[![Wardley's Doctrine](/assets/img/doctrine.png)](/assets/img/doctrine.png)
+
 ## Communication
 
 We want to ensure that people speak freely, using language everybody
