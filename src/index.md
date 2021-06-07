@@ -10,8 +10,14 @@ to delivering to their users. This is in opposition to a functional
 model, where capabilities are grouped by skills and ownership of the
 delivery to users is an endeavour shared between those functions.
 
-OSOM specifies an executive capability, and its interactions with a
-network of services as they progress through their [lifecycle](/lifecycle).
+The operating model has evolved over time by rigorously applying [Wardley's
+Doctrine](/doctrine) to multiple organisations, and finding generally
+applicable organisational patterns.
+
+The key components of OSOM are an executive capability that oversees
+and governs a network of services as they progress through a simple
+[service lifecycle](/lifecycle) that is compatible with the [Government
+Digital Service's](https://www.gov.uk/government/organisations/government-digital-service) [service manual](https://www.gov.uk/service-manual).
 
 ## The Executive
 
