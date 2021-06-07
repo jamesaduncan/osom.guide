@@ -46,5 +46,3 @@ Each service is built & operated by a Service Manager, who is
 accountable for the service and the team it requires in all its
 lifecycle phases - from discovery until its eventual retirement.
 
-Services can and should depend upon each other, forming a network of
-services, rather than a heirarchy of management.
