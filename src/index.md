@@ -1,7 +1,6 @@
 ---
 layout: document
 ---
-[![OSOM Overview](/assets/img/opmodel-overview.jpg)](/assets/img/opmodel-overview.jpg)
 
 ## Introduction to OSOM
 
