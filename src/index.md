@@ -18,14 +18,28 @@ The key components of OSOM are an executive capability that provides oversight a
 [service lifecycle](/lifecycle) that is compatible with the [Government
 Digital Service's](https://www.gov.uk/government/organisations/government-digital-service) [service manual](https://www.gov.uk/service-manual).
 
-### Previous documentation
+## A template operating model
+
+OSOM is a template operating model. Each organisation is different,
+and few organisations would be directly mappable onto OSOM
+directly. Instead, it forms a general approach that should carefully
+adapted.
+
+The key to adapting an operating model for any given orgasation is to
+be aware of the tradeoffs that are being made with each compromise,
+both positive and negative. That way, governance can be established to
+balance the negative consequences.
+
+## Previous documentation
 
 This site is an evolution of the original [OSOM
 documentation](http://stance.consulting/osom/). While the
 documentation almost certainly remains incomplete, this site takes
 precedence and therefore overrides any contradictions between the two.
 
-## The executive
+## Elements of OSOM
+
+### The executive
 
 The [OSOM executive](/executive) both governs the network of services
 and holds the managers of those services to account through the
@@ -35,7 +49,7 @@ The executive also has a role in advocating and monitoring the
 adoption of [doctrine](/doctrine) throughout the organisation, which is a
 collection of 40 universally useful patterns of behaviour.
 
-## The service network
+### The service network
 
 [OSOM services](/services/) address the needs of users. For any given service, the
 users may be external to the organisation, internal, or a mixture of
