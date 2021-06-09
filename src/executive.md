@@ -5,13 +5,13 @@ subtitle: Executive Terms of Reference
 
 ## Introduction
 
-The OSOM executive both governs the network of services and holds the
-managers of those services to account through the variety of
-mechanisms documented in the terms of reference.
+The OSOM executive exists to implement [doctrine](/doctrine/) in the
+organisation. In so doing, it plays the role of providing oversight
+and governance to the service network by holding service managers
+accountable for their services, through a number of tools and methods.
 
-The executive also has a role in advocating and monitoring the
-adoption of doctrine throughout the organisation, which is a
-collection of 40 universally useful patterns of behaviour.
+This article provides a terms of reference for the individual or team
+performing the role of the executive in OSOM.
 
 ## The executive
 
@@ -48,10 +48,9 @@ The executive has a number of roles and responsibilities in OSOM:
 1. Mediate between services
 1. Monitor and advocate doctrine
 
-
 ## Establish, decommission, assess, alter, and hold services accountable
 
-The primary role of the executive is to establish services; conduct
+A key role of the executive is to establish services; conduct
 assessments on them as they progress from discovery to alpha, alpha to
 beta, and beta to live; disband the services when no longer needed,
 and hold the managers of those services accountable throughout the
@@ -88,8 +87,8 @@ be conducted to understand service improvements and changes over time.
 In order to ensure the organisation functions both efficiently and
 effectively, the Executive should decommission a service when either:
 
-* new user needs are established that it is unable to meet or...
-* another service better meets the user's needs or...
+* new user needs are established that it is unable to meet _and..._
+* another service better meets the user's needs now _or..._
 * the user’s needs no longer exist.
 
 ### Alter services
@@ -212,8 +211,9 @@ The executive is responsible for advocating and monitoring the
 adherence to Wardley’s doctrine.
 
 Wardley’s doctrine is a collection of 40 patterns of behaviour that
-are universally applicable to all organisations regardless of
-context. Each of the elements of OSOM has been designed in conjunction
-with the application of those behaviours, and the executive is
-responsible for constantly being aware of opportunities to alter the
-operating model more in line with doctrine where needed.
+are universally applicable to all organisations regardless of context.
+
+Each of the elements of OSOM has been designed in conjunction with the
+application of those behaviours, and the executive is responsible for
+constantly being aware of opportunities to alter the operating model
+more in line with doctrine where needed.
