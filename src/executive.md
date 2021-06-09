@@ -37,6 +37,7 @@ responsibility and have no individual portfolio per se of their own.
 The executive has a number of roles and responsibilities in OSOM:
 
 1. Establish, disband, assess and hold services accountable
+1. Allocate budgets to services
 1. Review and analyse fitness data & maps
 1. Issue mandates to manipulate the service network
 1. Review Correction of Error documents
@@ -56,11 +57,11 @@ and hold the managers of those services accountable throughout the
 
 ### Establish Services
 
-The Executive establishes a service by publishing a Service Contract
-and appointing a Service Manager for the service. Typically, a new
-service will start the service lifecycle in discovery and progress
-through alpha and beta where the contract will be refined until it is
-live.
+The Executive establishes a service by publishing a Service Contract,
+allocating a budget and appointing a Service Manager for the
+service. Typically, a new service will start the service lifecycle in
+discovery and progress through alpha and beta where the contract will
+be refined until it is live.
 
 In some instances - for example, as OSOM is adopted in an existing
 organisation - a service contract may be written for a service that
@@ -110,6 +111,16 @@ It should be noted that the Executive does not have the authority to
 dictate any of these elements to the service, via the Service Manager,
 but it does have the authority to appoint and replace the Service
 Manager if it sees fit.
+
+## Allocate budgets to services
+
+Services, and their service managers must have budgets to operate, and
+the nature of the budgets will be different depending on where in a
+services lifecycle it is, and the type of consumers the service has.
+
+Budget allocation is a complex task that needs to be carefully
+considered. One approach to this is [capital flow
+management](/capitalflow).
 
 ## Review and analyse fitness data & maps
 

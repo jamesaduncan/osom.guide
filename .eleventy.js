@@ -61,7 +61,11 @@ module.exports = function(eleventyConfig) {
 
     md.linkify.tlds('.io', false);
     eleventyConfig.setLibrary('md', md);
-		
+
+    eleventyConfig.addFilter('lower', (str) => {
+	let theString = str+"";
+	return theString.toLowerCase();
+    });
     
     return {
 	htmlTemplateEngine: "njk",

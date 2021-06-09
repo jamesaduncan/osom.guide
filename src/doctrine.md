@@ -171,20 +171,20 @@ testing our response.
 
 ### Do we prioritise effectiveness over efficiency?
 
-We're careful not to waste valuable time making the ineffective more efficient. Instead, we replace it with something that works better.
+We're careful not to waste valuable time making the ineffective more
+efficient. Instead, we replace it with something that works better.
 
 ### Do we optimise flow?
 
 Anything which gets in the way of meeting user needs, being fast,
 transparency on relevant information is treated ruthlessly.  Whether
-it is with what we build or how, we remove bottlenecks and improve
-throughput where possible.
+it is with what we build or how we run it afterwards, we remove
+bottlenecks and improve throughput where possible.
 
 ### Do we get better with less?
 
-We strive to improve continuously.
-Do we set exceptional standards?
-We strive for the very best that can be achieved.
+We strive to improve continuously. Do we set exceptional standards? We
+strive for the very best that can be achieved.
 
 ## Learning
 
