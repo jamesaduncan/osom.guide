@@ -4,6 +4,7 @@ let slugify    = require('slugify');
 let markdownIt = require('markdown-it');
 let markdownItAnchor = require('markdown-it-anchor');
 let markdownItToc = require('markdown-it-table-of-contents');
+let markdownItFootnote = require('markdown-it-footnote');
 
 let TOC = require('eleventy-plugin-toc');
 
@@ -57,6 +58,7 @@ module.exports = function(eleventyConfig) {
 	transformLink: function(link) {
 	    return link.replace(/\%60/g, "");
 	}
+    }).use(markdownItFootnote, {
     });
 
     md.linkify.tlds('.io', false);

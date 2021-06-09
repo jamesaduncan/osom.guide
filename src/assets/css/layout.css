@@ -140,3 +140,9 @@ header a {
 header a:visited {
     color: var(--text-color);
 }
+
+main ol.footnotes-list {
+    font-size: .75em;
+    margin-left: 1em;
+    list-style: decimal;
+}
