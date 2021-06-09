@@ -37,7 +37,7 @@ collection of 40 universally useful patterns of behaviour.
 
 ## The service network
 
-OSOM Services address the needs of users. For any given service, the
+[OSOM services](/services/) address the needs of users. For any given service, the
 users may be external to the organisation, internal, or a mixture of
 both.
 
