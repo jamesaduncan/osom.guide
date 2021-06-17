@@ -25,8 +25,8 @@ and few organisations would be directly mappable onto OSOM
 directly. Instead, it forms a general approach that should carefully
 adapted.
 
-The key to adapting an operating model for any given orgasation is to
-be aware of the tradeoffs that are being made with each compromise,
+The key to adapting an operating model for any given organisation is to
+be aware of the trade offs that are being made with each compromise,
 both positive and negative. That way, governance can be established to
 balance the negative consequences.
 
