@@ -1,7 +1,8 @@
 ---
 layout: document
-title: OSOM Guide
+title: ''
 subtitle: Service Lifecycle
+
 ---
 The service lifecycle defines how services mature from an initial
 concept, through to production, and are eventually decommissioned. At
@@ -72,4 +73,3 @@ contract to ensure that the organisation doesn’t forget lessons that
 it may have learned from operating it.
 
 For more information, see the GDS documentation on [retiring a service](https://www.gov.uk/service-manual/agile-delivery/retiring-your-service).
-
