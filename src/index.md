@@ -1,5 +1,6 @@
 ---
 layout: document
+subtitle: ''
 
 ---
 ## Introduction to OSOM
