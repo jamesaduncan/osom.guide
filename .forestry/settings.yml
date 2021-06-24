@@ -9,7 +9,7 @@ sections:
   label: Styles
   create: documents
   match: "**/*"
-  new_doc_ext: ''
+  new_doc_ext: app
 - type: directory
   path: src/includes
   label: Templates
