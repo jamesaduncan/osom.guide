@@ -37,7 +37,7 @@ We share what we're doing to allow others to challenge and question our assumpti
 
 We want to make sure that we know who we're delivering to, and what it is that they need. We want to make sure that we're not repeating ourselves, or doing the same thing repeatedly, in slightly different ways.
 
-We want to feel confident that your teams are able to use the most suitable methods for the task at hand - whether that is building a website or a data center, and do we use the right tools?
+We want to feel confident that your teams are able to use the most suitable methods for the task at hand - whether that is building a website or a data centre, and do we use the right tools?
 
 We want to make sure that we're building only what is needed, and not throwing in the kitchen sink because we can!
 
@@ -59,7 +59,7 @@ We try to avoid the tyranny of one. There is no magic solution and we have to us
 
 ### Do we focus on outcomes rather than processes?
 
-We try to focus on what we're trying to achieve rather than a process or a contract. We know that sometimes we can achieve goals with teams of different types - sometimes on-site, sometimes remote, sometimes in-house, and sometimes via a third-party.
+We try to focus on what we're trying to achieve rather than a process or a contract. We know that sometimes we can achieve goals with teams of different types - sometimes on-site, sometimes remote, sometimes in-house, and sometimes via a third party.
 
 ### Do we think Fast, Inexpensive, Restrained and Elegant (FIRE)?
 
@@ -85,7 +85,7 @@ In this section, we'll consider the various doctrine patterns that impact most s
 
 Do we build the expectation of failure into how we operate? And do we try to set exceptional standards in everything we do?
 
-Once something is running and working well, do we look to improve the efficiency of it so that it becomes less expensive? Or do we rest on our laurels?
+Once something is running and working well, do we look to improve its efficiency so that it becomes less expensive? Or do we rest on our laurels?
 
 ### Do we know the details?
 
@@ -125,11 +125,11 @@ We try to introduce mechanisms of learning into our organization that compel it 
 
 ### Do we have a bias towards action?
 
-We learn from playing the game. Activity, and feedback from it is the best tutor available.
+We learn from playing the game. Activity and feedback from it is the best tutor available.
 
 ### Do we have a bias towards the new?
 
-Whatever we do will evolve. So we have bias towards the new, we're curious and we take appropriate risks. We're willing to experiment to learn.
+Whatever we do will evolve. So we have a bias towards the new, we're curious and we take appropriate risks. We're willing to experiment to learn.
 
 ### Do we listen to our ecosystem?
 
@@ -149,7 +149,7 @@ An imperfect plan executed today is better than a perfect plan executed tomorrow
 
 ### Do we recognise that strategy is iterative?
 
-Instead of long winded plans, we will have direction towards a position and adapt as needed. We will "cross the river by feeling the stones".  Do we pick a direction and stick to it, while adapting to challenges along the way?  Once we've set a direction we commit to it.
+Instead of long-winded plans, we will have a direction towards a position and adapt as needed. We will "cross the river by feeling the stones".  Do we pick a direction and stick to it, while adapting to challenges along the way?  Once we've set a direction we commit to it.
 
 There will often be hurdles and obstacles but we don't just simply abandon a direction because a single step is challenging. We try to find paths around the obstacles. When we're building systems and a common component isn't quite as expected then that is a potential opportunity.
 
@@ -163,7 +163,7 @@ Whilst the actions we take, the way that we organize and the focus on detail req
 
 ### Do we embrace uncertainty?
 
-There will be uncertainty, emerging patterns and surprises along the way. We embrace this, and don't fall for the temptation that we can plan the future. What matters is not the plan but the preparation and our ability to adapt.
+There will be uncertainty, emerging patterns and surprises along the way. We embrace this and don't fall for the temptation that we can plan the future. What matters is not the plan but the preparation and our ability to adapt.
 
 ### Are we humble?
 
@@ -201,7 +201,7 @@ We try to find and grow the best people with the best aptitude and attitude for 
 
 ### Do we recognize that there is no single culture?
 
-We understand that an organization which plans for longevity needs to cope with not only the discovery of new things, but also the use of things that have become industrialized, while transitioning other things between these two extremes. We will, therefore, need to allow for different approaches at different times. We won't insist upon round pegs, or square holes; we won't grind people down into one way of looking at the world.
+We understand that an organization that plans for longevity needs to cope with not only the discovery of new things but also the use of things that have become industrialized while transitioning other things between these two extremes. We will, therefore, need to allow for different approaches at different times. We won't insist upon round pegs or square holes; we won't grind people down into one way of looking at the world.
 
 ### Do we design for constant evolution?
 
