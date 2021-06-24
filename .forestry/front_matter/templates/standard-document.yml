@@ -9,3 +9,5 @@ fields:
 - type: text
   name: subtitle
   label: Document title
+pages:
+- src/services.md

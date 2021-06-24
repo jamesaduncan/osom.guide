@@ -1,6 +1,7 @@
 ---
 layout: document
 subtitle: OSOM services
+
 ---
 ## Introduction
 
@@ -114,4 +115,3 @@ needed.
 1. Guidance that has been rejected by the service manager
 
 {% include moresoon.html %}
-
