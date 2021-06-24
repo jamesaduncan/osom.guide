@@ -1,0 +1,10 @@
+---
+label: Standard Document
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: subtitle
+  label: subtitle
