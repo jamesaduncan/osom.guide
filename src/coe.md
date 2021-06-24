@@ -5,18 +5,11 @@ subtitle: Correction of Errors
 ---
 ## Introduction
 
-The Correction of Error (CoE) process was inspired by the [AWS
-Well Architected](https://wa.aws.amazon.com/wat.concept.coe.en.html)
-framework, and acts as a [systematic method of
-learning](/doctrine#do-we-use-systematic-mechanisms-of-learning) for
-the organisation's service network.
+The Correction of Error (CoE) process was inspired by the [AWS](https://wa.aws.amazon.com/wat.concept.coe.en.html) Well-Architected framework and acts as a [systematic method of learning](/doctrine#do-we-use-systematic-mechanisms-of-learning) for the organisation's service network.
 
 ## The CoE document
 
-A Correction of Error (CoE) document should be published by the
-[Service Manager](/services/#service-managers) for the service to which it applies. A CoE document
-should be published whenever a problem occurs - it shouldn't be
-necessary for the problem to have impacted the users of the service.
+A Correction of Error (CoE) document should be published by the [Service Manager](/services/#service-managers) for the service to which it applies. A CoE document should be published whenever a problem occurs - it shouldn't be necessary for the problem to have impacted the users of the service.
 
 The CoE document should contain:
 
