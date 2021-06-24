@@ -1,6 +1,7 @@
 ---
 layout: document
 subtitle: Correction of Errors
+
 ---
 ## Introduction
 
@@ -36,5 +37,3 @@ service managers of the unreviewed, published CoE documents. This
 review allows other service managers to benefit from the experience of
 the error, without being a part of the service team that experienced
 the error.
-
-
