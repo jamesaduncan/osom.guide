@@ -3,8 +3,6 @@ layout: document
 subtitle: ''
 
 ---
-## Introduction to OSOM
-
 The Organised Services Operating Model (OSOM) is a template operating model to help organisations who are adopting a service-based approach. This is in opposition to a functional model, where capabilities are grouped by skills and ownership of the delivery to users is an endeavour shared between those functions.
 
 The operating model has evolved over time by rigorously applying [Wardley's Doctrine](/doctrine) to multiple organisations, and finding generally applicable organisational patterns that have been deployed repeatedly.
