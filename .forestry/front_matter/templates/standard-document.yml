@@ -5,6 +5,7 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: subtitle
-  label: subtitle
+  label: Document title
