@@ -3,8 +3,6 @@ layout: document
 subtitle: Wardley's Doctrine
 
 ---
-## Introduction
-
 Wardley’s Doctrine is a collection of patterns of behaviour that has been used by Stance to evaluate and underpin its approach to improving organisations, and ultimately to developing [OSOM](/)
 
 The doctrine doesn’t tell us the precise steps that need to be taken, but it does help us to understand how we’d like to see organisation behave: whether it’s assumptions being challenged freely and often, ensuring the user needs are focused upon, embracing uncertainty, or using failure as a tool, amongst others.
