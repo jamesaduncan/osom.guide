@@ -4,7 +4,8 @@
   "description": "A guide to the Organised Services Operating Model",
   "main": "index.js",
   "scripts": {
-    "test": "tap"
+    "test": "tap",
+    "develop": "eleventy --serve"
   },
   "keywords": [
     "OSOM",
