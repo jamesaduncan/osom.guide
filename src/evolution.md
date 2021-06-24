@@ -1,8 +1,8 @@
 ---
 layout: document
 subtitle: Evolution of services
----
 
+---
 ## Introduction
 
 An important concept from Wardley mapping that OSOM is built upon
@@ -14,6 +14,3 @@ competitors. However, they compose other services to achieve that,
 some of which will be built around [bespoke](#bespoke) components, some around [products](#products), and still more that use [commodities](#commodity).
 
 {% include moresoon.html %}
-
-
-

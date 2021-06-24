@@ -1,6 +1,7 @@
 ---
 layout: document
 subtitle: Wardley's Doctrine
+
 ---
 ## Introduction
 

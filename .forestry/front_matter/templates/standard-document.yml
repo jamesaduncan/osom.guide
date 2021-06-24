@@ -10,6 +10,9 @@ fields:
   name: subtitle
   label: Document title
 pages:
+- src/doctrine.md
+- src/evolution.md
+- src/executive.md
 - src/index.md
 - src/lifecycle.md
 - src/services.md
