@@ -1,8 +1,8 @@
 ---
 layout: document
 subtitle: Executive Terms of Reference
----
 
+---
 ## Introduction
 
 The OSOM executive exists to implement [doctrine](/doctrine/) in the
@@ -10,8 +10,7 @@ organisation. In so doing, it plays the role of providing oversight
 and governance to the service network by holding service managers
 accountable for their services, through a number of tools and methods.
 
-This article provides a terms of reference for the individual or team
-performing the role of the executive in OSOM.
+This article provides terms of reference for the individual or team performing the role of the executive in OSOM.
 
 ## The executive
 
@@ -39,14 +38,14 @@ responsibility and have no individual portfolio per se of their own.
 The executive has a number of roles and responsibilities in OSOM:
 
 1. Establish, disband, assess and hold services accountable
-1. Allocate budgets to services
-1. Review and analyse fitness data & maps
-1. Issue mandates to manipulate the service network
-1. Review Correction of Error documents
-1. Consider, publish and endorse guidance
-1. Endorse Communities of Practice
-1. Mediate between services
-1. Monitor and advocate doctrine
+2. Allocate budgets to services
+3. Review and analyse fitness data & maps
+4. Issue mandates to manipulate the service network
+5. Review Correction of Error documents
+6. Consider, publish and endorse guidance
+7. Endorse Communities of Practice
+8. Mediate between services
+9. Monitor and advocate doctrine
 
 ## Establish, decommission, assess, alter, and hold services accountable
 
@@ -93,10 +92,7 @@ effectively, the Executive should decommission a service when either:
 
 ### Alter services
 
-Occasionally a service contract as written and established through the
-service lifecycle will require alteration - a new user need may be
-identified, or some other element of the contract may need to be
-adjusted.
+Occasionally a service contract as written and established through the service lifecycle will require alteration - a new user need may be identified, or some other element of the contract may need to be adjusted.
 
 The executive can do this, but should only do so sparingly: a contract
 change has associated risks that should not be ignored.
@@ -115,9 +111,7 @@ Manager if it sees fit.
 
 ## Allocate budgets to services
 
-Services, and their service managers must have budgets to operate, and
-the nature of the budgets will be different depending on where in a
-services lifecycle it is, and the type of consumers the service has.
+Services, and their service managers must have budgets to operate, and the nature of the budgets will be different depending on where in a service's lifecycle it is, and the type of consumers the service has.
 
 Budget allocation is a complex task that needs to be carefully
 considered. One approach to this is [capital flow
@@ -203,7 +197,7 @@ Communities of Practice.
 In any service network, disputes will arise between services that
 serve each other. When this occurs it is for the executive to mediate
 those disputes and find resolution through the mechanisms it already
-has: mandates, contract alterations, assessments, etc.  
+has: mandates, contract alterations, assessments, etc.
 
 ## Monitor and advocate doctrine
 
