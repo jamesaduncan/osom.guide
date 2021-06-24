@@ -24,9 +24,4 @@ The CoE document should contain:
 
 ## The Correction of Errors review
 
-The [executive](/executive) should [conduct regular
-reviews](/executive#review-correction-of-error-documents) with all
-service managers of the unreviewed, published CoE documents. This
-review allows other service managers to benefit from the experience of
-the error, without being a part of the service team that experienced
-the error.
+The [executive](/executive) should [conduct regular reviews](/executive#review-correction-of-error-documents) with all service managers of the unreviewed, published CoE documents. This review allows other service managers to benefit from the experience of the error, without being a part of the service team that experienced the error.
