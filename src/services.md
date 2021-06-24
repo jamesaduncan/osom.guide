@@ -3,8 +3,6 @@ layout: document
 subtitle: OSOM services
 
 ---
-## Introduction
-
 OSOM services and the network of interactions they form are, are one
 of the two key parts of OSOM, the other being the
 [executive](/executive).
@@ -35,10 +33,10 @@ doing all of those things.
 Service managers:
 
 1. Are accountable for their service
-1. Use the allocated service budget wisely
-1. Build the team they need
-1. Decide the way they run their team
-1. Publish Correction of Error documents when problems arise
+2. Use the allocated service budget wisely
+3. Build the team they need
+4. Decide the way they run their team
+5. Publish Correction of Error documents when problems arise
 
 ### Service managers are accountable for their service
 
@@ -53,7 +51,6 @@ is responsible for ensuring it is used wisely. This budget should
 allow the service manager to build the team they need, as well as
 perform any activities needed for the service's [lifecycle
 stage](/lifecycle).
-
 
 ### Service managers build the team they need
 
@@ -88,7 +85,7 @@ way to run their team for their particular service.
 Building and running a service is challenging at times, and issues and
 problems occur regularly. To help the organisation learn in a
 methodical, systematic way, service managers write about the problems
-they face in [Correction of Error](/coe/) documents 
+they face in [Correction of Error](/coe/) documents
 
 ## Service contracts
 
@@ -96,22 +93,22 @@ Each service has a service contract, and that contract explains the
 critical information about the service:
 
 1. What the service is and the user needs it meets
-1. What [lifecycle stage](/lifecycle) the service is at
-1. How the service is used
-1. What expectations of success and failure a customer can have
-1. How the performance of the service is measured
-1. How to get help when the service isn't performing as expected
-1. What other services the service depends upon
+2. What [lifecycle stage](/lifecycle) the service is at
+3. How the service is used
+4. What expectations of success and failure a customer can have
+5. How the performance of the service is measured
+6. How to get help when the service isn't performing as expected
+7. What other services the service depends upon
 
 ## Service governance
 
 In order to govern the network of services, the
 [executive](/executive) requires some additional information about
 each service that helps them to understand and make changes when
-needed. 
+needed.
 
 1. A Wardley Map of how the service is delivered, and the components
    it requires
-1. Guidance that has been rejected by the service manager
+2. Guidance that has been rejected by the service manager
 
 {% include moresoon.html %}
