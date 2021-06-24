@@ -115,7 +115,7 @@ Services, and their service managers must have budgets to operate, and the natur
 
 Budget allocation is a complex task that needs to be carefully
 considered. One approach to this is [capital flow
-management](/capitalflow).
+management](/capitalflow "capital flow management").
 
 ## Review and analyse fitness data & maps
 
