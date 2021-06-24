@@ -1,0 +1,23 @@
+html {
+    --main-font: 'Raleway', sans-serif;
+    --text-color: black;
+}
+
+body {
+    font-family: var(--main-font);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding-top: 0;
+    margin-top: .5em;
+    margin-bottom: .25em;
+    font-weight: normal;
+}
+
+header a {
+    text-decoration: none;
+}
+
+header a:visited {
+    color: var(--text-color);
+}

@@ -70,18 +70,6 @@ select {
   }
 }
 
-html {
-    --main-font: 'Raleway', sans-serif;
-    --text-color: black;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    padding-top: 0;
-    margin-top: .5em;
-    margin-bottom: .25em;
-    font-weight: normal;
-}
-
 /* structure paragraphs with some spacing at the top and bottom
 p {
     margin-top: .25em;
@@ -91,7 +79,6 @@ p {
 
 body {
     margin: 0;
-    font-family: var(--main-font);
     display: grid;
     grid-template-columns: [side] 30vw [content] 40vw;
     grid-template-rows: [head] 10rem [body] auto [foot] 10rem;
