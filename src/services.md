@@ -3,17 +3,17 @@ layout: document
 subtitle: OSOM services
 
 ---
-OSOM services and the network of interactions they form are, are one of the two key parts of OSOM, the other being the [executive](/executive).
+OSOM services and the network of interactions they form are one of the two key parts of OSOM, the other being the [executive](/executive).
 
-The service network does the heavy lifting for the organisation, and delivers against the user needs that the organisation attempts to address for third-parties, or the needs that arise through tackling those.
+The service network does the heavy lifting for the organisation, and delivers against the user needs that the organisation attempts to address for third parties or the needs that arise through tackling those.
 
-They're not end-to-end silos, or a transaction. They are discrete capabilities that can be assembled as components by other, increasingly higher-order capabilities, ultimately to present those customer journeys to users.
+They're not end-to-end silos or a transaction. They are discrete capabilities that can be assembled as components by other, increasingly higher-order capabilities, ultimately to present those customer journeys to users.
 
-Services are managed by service managers, and are periodically assessed by the executive - at minimum each time the service progresses to a new stage in its [lifecycle](/lifecycle/), but regularly once the service goes [live](/lifecycle/#live) also.
+Services are managed by service managers and are periodically assessed by the executive - at minimum each time the service progresses to a new stage in its [lifecycle](/lifecycle/), but regularly once the service goes [live](/lifecycle/#live) also.
 
 ## Service managers
 
-Services are individually managed by service managers. Ideally, the service manager would have the capability to deliver every element of their service - designing it, building or buying it, and then running it - however, in practice they must build and manage a team capable of doing all of those things.
+Services are individually managed by service managers. Ideally, the service manager would have the capability to deliver every element of their service - designing it, building or buying it, and then running it - however, in practice, they must build and manage a team capable of doing all of those things.
 
 Service managers:
 
@@ -29,7 +29,7 @@ Each service has a [contract](#service-contracts) that defines the service, and 
 
 ### Service managers use the allocated service budget wisely
 
-Each service is allocated a budget by the [executive](/executive), and is responsible for ensuring it is used wisely. This budget should allow the service manager to build the team they need, as well as perform any activities needed for the service's [lifecycle stage](/lifecycle).
+Each service is allocated a budget by the [executive](/executive) and is responsible for ensuring it is used wisely. This budget should allow the service manager to build the team they need, as well as perform any activities needed for the service's [lifecycle stage](/lifecycle).
 
 ### Service managers build the team they need
 
