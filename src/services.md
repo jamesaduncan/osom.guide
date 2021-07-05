@@ -3,7 +3,7 @@ layout: document
 subtitle: OSOM services
 
 ---
-OSOM services and the network of interactions they form are one of the two key parts of OSOM, the other being the [executive](/executive).
+OSOM services and the network of interactions they form are two key parts of OSOM, the other being the [executive](/executive).
 
 The service network does the heavy lifting for the organisation. It delivers against the user needs that the organisation attempts to address for third parties or the needs that arise through tackling those.
 
@@ -29,7 +29,7 @@ Each service has a [contract](#service-contracts) that defines the service and h
 
 ### Service managers use the allocated service budget wisely
 
-Each service is allocated a budget by the [executive](/executive) and is responsible for ensuring it is used wisely. This budget should allow the service manager to build the team they need and perform any activities needed for the service's [lifecycle stage](/lifecycle).
+Each service is allocated a budget by the [executive](/executive) and is responsible for ensuring it is used wisely. This budget should allow the service manager to build the team they need and perform any activities needed for its [lifecycle stage](/lifecycle).
 
 ### Service managers build the team they need
 
