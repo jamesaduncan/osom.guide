@@ -6,6 +6,7 @@ fields:
   name: layout
   label: layout
   hidden: true
+  default: document
 - type: text
   name: subtitle
   label: Document title
