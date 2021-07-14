@@ -13,7 +13,7 @@ While the purpose of the assessment remains the same, the nature of the assessme
 
 When a [discovery phase](/lifecycle/#discovery) comes to its conclusion, an assessment will need to be conducted to determine the service should move on to an alpha stage or not.
 
-This will mean that the service contract will have been tested with user research, and the service team will have a good idea about what will be needed to address the needs that have been identified.
+This will mean that the service contract will have been tested with user research, and the service team will have a good idea about what will be needed to address the needs that have been identified. You'll 
 
 There are three possible outcomes of a discovery phase:
 
@@ -38,5 +38,9 @@ An incremental funding model will often result in small, focused efforts rather 
 When a service is ready to progress to alpha it has identified the needs it intends to address. This means the service contract has been clarified and updated where needed to reflect the latest understanding.
 
 In order to progress to alpha, a budget will need to be allocated so that the service has appropriate funding. This _should_ be a consideration of the discovery phase. 
+
+When budgeting for an alpha phase, it is important to consider that an alpha phase explores possible answers to the user needs, with the expectation that some of those answers will be unsuccessful.
+
+In some organisations, it may be that the assessment is also the approval body for funding. In others, it may be that a separate case needs to be submitted to release money. From a process design standpoint, it is important that the time in between the assessment being conducted and the funding for alpha being made available should be as little as possible.
 
 ## After an alpha phase
