@@ -23,6 +23,8 @@ This site is an evolution of the original [OSOM documentation](http://stance.con
 
 ## Elements of OSOM
 
+![](/assets/img/osom-overview.svg)
+
 ### The executive
 
 The [OSOM executive](/executive) governs the network of services and holds the managers of those services to account through various mechanisms documented in terms of reference.
