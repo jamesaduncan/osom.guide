@@ -15,7 +15,7 @@ The key components of OSOM are an executive capability that provides oversight a
 
 OSOM is a template operating model. Each organisation is different, and few organisations would be directly mappable onto OSOM directly. Instead, it forms a general approach that should be carefully adapted.
 
-The key to adapting an operating model for any given organisation is to be aware of the trade-offs being made with each compromise, both positive and negative. That way, governance can be established to balance the negative consequences.
+The key to adapting an operating model for any organisation is to be aware of the trade-offs being made with each compromise, both positive and negative. That way, governance can be established to balance the negative consequences.
 
 ## Previous documentation
 
