@@ -55,11 +55,12 @@ Each service has a service contract, and that contract explains the critical inf
 
 1. What the service is and the [user needs](/user-needs) it meets
 2. What [lifecycle stage](/lifecycle) the service is at
-3. How the service is used
-4. What expectations of success and failure a customer can have
-5. How the performance of the service is measured
-6. How to get help when the service isn't performing as expected
-7. What other services the service depends upon
+3. What evolutionary stage the service is at
+4. How the service is used
+5. What expectations of success and failure a customer can have
+6. How the performance of the service is measured
+7. How to get help when the service isn't performing as expected
+8. What other services the service depends upon
 
 ## Service governance
 
