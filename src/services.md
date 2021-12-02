@@ -53,7 +53,7 @@ Building and running a service is challenging at times, and issues and problems 
 
 Each service has a service contract, and that contract explains the critical information about the service:
 
-1. What the service is and the user needs it meets
+1. What the service is and the [user needs](/user-needs) it meets
 2. What [lifecycle stage](/lifecycle) the service is at
 3. How the service is used
 4. What expectations of success and failure a customer can have
