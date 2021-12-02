@@ -1,13 +1,13 @@
 ---
 layout: document
-subtitle: ''
+subtitle: index
 
 ---
 The Organised Services Operating Model (OSOM) is a template operating model to help organisations adopt a service-based approach. This is in opposition to a functional model, where capabilities are grouped by skills and ownership of the delivery to users is an endeavour shared between those functions.
 
 The operating model has evolved by rigorously applying [Wardley's Doctrine](/doctrine) to multiple organisations and finding generally applicable organisational patterns that have been deployed repeatedly.
 
-The key components of OSOM are an executive capability that provides oversight and governance and a network of services that progress through a simple [service lifecycle](/lifecycle) that is compatible with the [Government Digital Service's](https://www.gov.uk/government/organisations/government-digital-service) [service manual](https://www.gov.uk/service-manual).
+The key components of OSOM are an executive capability that provides oversight & governance and a network of services that progress through a simple [service lifecycle](/lifecycle) compatible with the [Government Digital Service's](https://www.gov.uk/government/organisations/government-digital-service) [service manual](https://www.gov.uk/service-manual).
 
 [![a diagram showing an overview of the various parts of OSOM](/assets/img/opmodel-overview.jpg "OSOM Oviewview")](/assets/img/opmodel-overview.jpg "Operating model overview diagram")
 
