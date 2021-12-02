@@ -35,7 +35,7 @@ A key role of the executive is to establish services; conduct assessments on the
 
 ### Establish Services
 
-The Executive establishes a service by publishing a Service Contract, allocating a budget and appointing a Service Manager for the service. Typically, a new service will start the service lifecycle in discovery and progress through alpha and beta where the contract and how it is delivered will be refined until it is live.
+The Executive [establishes a service](/establishing-a-new-service/) by publishing a Service Contract, allocating a budget and appointing a Service Manager for the service. Typically, a new service will start the service lifecycle in discovery and progress through alpha and beta where the contract and how it is delivered will be refined until it is live.
 
 In some instances - for example, as OSOM is adopted in an existing organisation - a service contract may be written for a service that already exists. In this case, the service may not progress through the service lifecycle as normal, but in all other respects should be governed as any other service.
 
