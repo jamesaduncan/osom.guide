@@ -47,7 +47,7 @@ The service manager is accountable for deciding the most appropriate way to run 
 
 ### Service managers publish Correction of Error documents when problems arise
 
-Building and running a service is challenging at times, and issues and problems occur regularly. To help the organisation learn in a methodical, systematic way, service managers write about the problems they face in [Correction of Error](/coe/) documents
+Building and running a service is challenging at times, and issues and problems occur regularly. To help the organisation learn in a methodical, systematic way, service managers write about the problems they face in [Correction of Error](/coe/) documents.
 
 ## Service contracts
 
@@ -58,7 +58,7 @@ Each service has a service contract, and that contract explains the critical inf
 3. What evolutionary stage the service is at
 4. How the service is used
 5. What expectations of success and failure a customer can have
-6. How the performance of the service is measured
+6. How the [performance of the service is measured](/measuring-service-performance/)
 7. How to get help when the service isn't performing as expected
 8. What other services the service depends upon
 
