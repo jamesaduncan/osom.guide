@@ -10,6 +10,11 @@ fields:
 - type: text
   name: subtitle
   label: Document title
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+  description: Should be set to "concept", "people" or "processes"
 pages:
 - src/assessments.md
 - src/capitalflow.md
