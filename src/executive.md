@@ -79,6 +79,8 @@ Budget allocation is a complex task that needs to be carefully considered. One a
 
 The executive reviews and analyses fitness data published by services, and Wardley Maps of each service produced by their Service Managers. The fitness data is used to understand the performance of the service: is it meeting the needs of the users as intended?
 
+The fitness data from services should also be considered in relation to other services too. For example, in a hypothetical service network for an e-commerce website, the cost of hardware infrastructure per customer transaction could only be derived from aggregating fitness data from multiple services. It is up to the executive to determine the aggregations they consider to be important.
+
 Wardley Maps of each service should be maintained by their respective Service Manager. The executive uses Wardley Maps to consider the entirety of the service network, and answer questions such as: are the services operating in the right way? Are there other services that could be introduced to improve the efficiency and effectiveness of the service network? Are there services that should be challenged to industrialize their delivery? Are there services that should be decommissioned?
 
 Benefits realization should be reported through these mechanisms.
