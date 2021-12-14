@@ -1,9 +1,10 @@
 ---
 layout: document
 subtitle: Behaviours
-tags: concept
----
+tags:
+- concept
 
+---
 OSOM endorses a set of behaviours known as "Wardley's
 Doctrine".
 
@@ -22,7 +23,7 @@ This text has been derived from [Simon Wardley's writings on
 medium](http://medium.com/wardleymaps) and in
 [Wardleypedia](https://wardleypedia.org/mediawiki/index.php/Doctrine_Patterns)
 
-[![Wardley's Doctrine](/assets/img/doctrine.png)](/assets/img/doctrine.png)
+[![Wardley's Doctrine](/assets/img/doctrine-behaviours.png)](/assets/img/doctrine-behaviours.png)
 
 ## Communication
 
