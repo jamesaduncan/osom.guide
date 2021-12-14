@@ -2,9 +2,9 @@
 layout: document
 subtitle: Service Managers
 tags:
-  - people
----
+- people
 
+---
 ## Service managers
 
 Service managers individually manage services. Ideally, the service
@@ -23,31 +23,20 @@ Service managers:
 
 ### Service managers are accountable for their service
 
-Each service has a [contract](#service-contracts) that defines the
-service, the needs it meets, and how users consume it. Service
-managers are accountable for delivery against that contract. Within
-the bounds of that contract, they are free to deliver the service as
-they see fit. The service is autonomous and operates independently.
+Each service has a [contract](#service-contracts) that defines the service, the needs it meets, and how users consume it. Service managers are accountable for delivery against that contract. Within the bounds of that contract, they are free to deliver the service as they see fit. The service is autonomous and operates independently.
 
 ### Service managers use the allocated service budget wisely
 
-Each service is allocated a budget by the [executive](/executive) and
-is responsible for ensuring it is used wisely. This budget should
-allow the service manager to build the team they need and perform any
-activities needed for its [lifecycle stage](/lifecycle).
+Each service is allocated a budget by the [executive](/executive) and is responsible for ensuring it is used wisely. This budget should allow the service manager to build the team they need and perform any activities needed for its [lifecycle stage](/lifecycle).
 
 ### Service managers build the team they need
 
-Services need different capabilities at different times. For example,
-a service in [discovery](/lifecycle/#discovery) will have more user
-researchers than a [live](/lifecycle/#live) service; a service in
-[alpha ](/lifecycle/#alpha)or [beta ](/lifecycle/#beta)will probably
+Services need different capabilities at different times. For example, a service in [discovery](/lifecycle/#discovery) will have more user researchers than a [live](/lifecycle/#live) service; a service in [alpha ](/lifecycle/#alpha)or [beta ](/lifecycle/#beta)will probably
 have more developers than a service that is live.
 
-It is up to the service manager to staff the team as they see fit,
-with the people they need to perform the required activities. The cost
-of the team needs to be met from the budget that the service has been
-allocated.
+It is up to the service manager to staff the team as they see fit, with the people they need to perform the required activities. The cost of the team needs to be met from the budget that the service has been allocated.
+
+Members of the team are line-managed by the service manager, or by the management structure that the service manager puts in place. In all cases, the performance of team members should be considered in accordance with guidance from the [community of practice](/community-of-practice) that represents their profession.
 
 ### Service managers decide the way they run their team
 
