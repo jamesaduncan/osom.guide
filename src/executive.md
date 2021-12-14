@@ -2,7 +2,8 @@
 layout: document
 subtitle: Executive
 tags:
-  - concept
+- concept
+
 ---
 The OSOM executive exists to implement [doctrine](/doctrine/) in the organisation. In so doing, it plays the role of providing oversight and governance to the service network by holding service managers accountable for their services, through a number of tools and methods.
 
@@ -12,7 +13,7 @@ This article provides terms of reference for the individual or team performing t
 
 The executive holds the accountability and responsibility for the entire scope of the organisation. This includes both the service network and the executive team.
 
-In an ideal organisation, there would be no requirement for an executive team. The responsibilities held by the executive, and the activities required to act upon those responsibilities would be conducted entirely by a single individual. However, given constraints of time, complexity and expertise it is unlikely to be possible. Therefore the executive is responsible for augmenting their skills with the addition of executive team members who speak with the voice of the executive.
+In an ideal organisation, there would be no requirement for an executive _team_. The responsibilities held by the executive, and the activities required to act upon those responsibilities would be conducted entirely by a single individual. However, given constraints of time, complexity and expertise it is unlikely to be possible. Therefore the executive is responsible for augmenting their own skills with the addition of executive team members who speak with the voice of the executive.
 
 Members of the executive team have authority delegated to them by the executive who may task them with areas of interest as they see fit. However, when members of the executive team act, they do so entirely in the scope of the executive’s accountability and responsibility and have no individual portfolio _per se_ of their own.
 
@@ -72,7 +73,7 @@ It should be noted that the Executive does not have the authority to dictate any
 
 ## Allocate budgets to services
 
-Services, and their service managers must have budgets to operate, and the nature of the budgets will be different depending on where in a service's lifecycle it is, and the type of consumers the service has.
+Services and their service managers must have budgets to operate, and the nature of the budgets will be different depending on where in a service's lifecycle it is, and the type of consumers the service has.
 
 Budget allocation is a complex task that needs to be carefully considered. One approach to this is [capital flow management](/capitalflow "capital flow management").
 
@@ -116,10 +117,8 @@ The executive should work with communities of practice to ensure that where poss
 
 In any service network, disputes will arise between services that serve each other. When this occurs it is for the executive to mediate those disputes and find resolution through the mechanisms it already has: mandates, contract alterations, assessments, etc.
 
-## Monitor and advocate doctrine
+## Monitor and advocate good behaviours
 
-The executive is responsible for advocating and monitoring the adherence to Wardley’s doctrine.
-
-Wardley’s doctrine is a collection of 40 patterns of behaviour that are universally applicable to all organisations regardless of context.
+The executive is responsible for advocating and monitoring the adherence to the [40 good behaviours](/doctrine).
 
 Each of the elements of OSOM has been designed in conjunction with the application of those behaviours, and the executive is responsible for constantly being aware of opportunities to alter the operating model more in line with doctrine where needed.
