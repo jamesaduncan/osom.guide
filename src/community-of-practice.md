@@ -10,4 +10,4 @@ In a service-based organisation, rather than a functional one the practitioners 
 
 A Community of Practice issues or endorses professional guidance, relevant to its practitioners. This should include guidance to individuals who manage practitioners of the profession on how to evaluate their team members.
 
-## 
+{% include moresoon.html %}
