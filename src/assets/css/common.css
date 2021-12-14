@@ -1,6 +1,11 @@
 html {
     --main-font: 'Raleway', sans-serif;
     --text-color: black;
+    
+    --page-background: #fff;
+    --menu-background: #eee;
+    --menu-current-background: #eee;
+    --menu-hover-background: lightgrey;
 }
 
 body {

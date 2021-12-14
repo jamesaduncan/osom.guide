@@ -1,0 +1,13 @@
+{% block menuitem %}
+<li aria-haspopup="true">
+  <a href="#">{{ title }}</a>
+  {% if collection %}
+  <menu aria-label="submenu">
+    {% for post in collection %}
+    <li {% if page.url == post.url %}aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.subtitle }}</a></li>
+    {% endfor %}
+  </menu>
+  {% endif %}
+</li>
+{% endblock %}
+

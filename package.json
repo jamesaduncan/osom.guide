@@ -2,6 +2,10 @@
   "name": "osom.guide",
   "version": "1.0.0",
   "description": "A guide to the Organised Services Operating Model",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamesaduncan/osom.guide"
+  },
   "main": "index.js",
   "scripts": {
     "test": "tap",
@@ -17,12 +21,14 @@
   "license": "ISC",
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
-    "eleventy-plugin-toc": "^1.1.0",
-    "markdown-it": "^12.0.6",
+    "axios": ">=0.21.2",
+    "eleventy-plugin-toc": "^1.1.5",
+    "markdown-it": "^12.3.0",
     "markdown-it-anchor": "^7.1.0",
     "markdown-it-footnote": "^3.0.3",
     "markdown-it-table-of-contents": "^0.5.2",
+    "nth-check": ">=2.0.1",
     "nunjucks": "^3.2.3",
-    "slugify": "^1.5.3"
+    "slugify": "^1.6.3"
   }
 }

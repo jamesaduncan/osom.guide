@@ -2,7 +2,7 @@
 layout: document
 title: ''
 subtitle: Service Lifecycle
-
+tags: concept
 ---
 The service lifecycle defines how services mature from an initial concept through to production and are eventually decommissioned. At each stage of the lifecycle, there can be different performance and reliability expectations, and different activities need to occur.
 

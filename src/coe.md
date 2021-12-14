@@ -1,7 +1,7 @@
 ---
 layout: document
 subtitle: Correction of Errors
-
+tags: processes
 ---
 The Correction of Error (CoE) process was inspired by the [AWS](https://wa.aws.amazon.com/wat.concept.coe.en.html) Well-Architected framework and acts as a [systematic method of learning](/doctrine#do-we-use-systematic-mechanisms-of-learning) for the organisation's service network.
 

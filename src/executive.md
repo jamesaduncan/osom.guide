@@ -1,7 +1,8 @@
 ---
 layout: document
-subtitle: Executive Terms of Reference
-
+subtitle: Executive
+tags:
+  - concept
 ---
 The OSOM executive exists to implement [doctrine](/doctrine/) in the organisation. In so doing, it plays the role of providing oversight and governance to the service network by holding service managers accountable for their services, through a number of tools and methods.
 
