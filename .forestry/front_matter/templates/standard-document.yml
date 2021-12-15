@@ -28,6 +28,7 @@ pages:
 - src/lifecycle.md
 - src/measuring-service-performance.md
 - src/operating-model.md
+- src/service-contract.md
 - src/service-network.md
 - src/services.md
 - src/user-needs.md
