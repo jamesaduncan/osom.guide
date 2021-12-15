@@ -41,11 +41,7 @@ Members of the team are line-managed by the service manager, or by the managemen
 ### Service managers decide the way they run their team
 
 Different types of services require different approaches for different
-stages of [evolution](/evolution/), and different
-[lifecycle](/lifecycle/) phases. A novel service that addresses user
-needs in a completely new way requires different project
-methodologies, people, and techniques from the operation of a product
-or the management of a contract from a third-party supplier.
+stages of [evolution](/evolution/), and different [lifecycle](/lifecycle/) phases. A novel service that addresses user needs in a completely new way requires different project methodologies, people, and techniques from the operation of a product or the management of a contract from a third-party supplier.
 
 For example, a service team building a beta web-based front-end that
 interacts with end-users requires a different set of approaches to an
