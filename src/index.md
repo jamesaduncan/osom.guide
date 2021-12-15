@@ -66,8 +66,8 @@ phases - from discovery until its eventual retirement.
 
 ## Recent changes
 
-{% for article in collections.all limit:10 %}
-{% if article.data.subtitle %}
-1. [{{ article.data.subtitle }}]({{ article.url }}) - {{ article.date }}
+{% for article in collections.all limit:5 reversed %}
+{% if article.data.subtitle.length > 0 %}
+1. [{{ article.data.subtitle }}]({{ article.url }})
 {% endif %}
 {% endfor %}
