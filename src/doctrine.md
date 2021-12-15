@@ -5,33 +5,19 @@ tags:
 - concept
 
 ---
-OSOM endorses a set of behaviours known as "Wardley's
-Doctrine".
+OSOM builds upon and endorses a set of behaviours known as "Wardley's Doctrine".
 
-Simon Wardley's doctrine is a collection of pattern that were
-carefully researched from the world's most successful organisations,
-and have been used by Stance to evaluate and underpin its approach to
-improving organisations, and ultimately to develop [OSOM](/)
+Simon Wardley's doctrine is a collection of patterns that were carefully researched from the world's most successful organisations, and have been used by Stance to evaluate and underpin its approach to improving organisations, and ultimately to develop [OSOM](/)
 
-The behaviours don’t inform us of the precise steps that need to be taken,
-but they do help us to understand how we’d prefer to see an organisation
-act: whether it’s assumptions being challenged freely and often,
-ensuring the user needs are focused upon, embracing uncertainty, or
-using failure as a tool, amongst others.
+The behaviours don’t inform us of the precise steps that need to be taken, but they do help us to understand how we’d prefer to see an organisation act: whether it’s assumptions being challenged freely and often, ensuring the user needs are focused upon, embracing uncertainty, or using failure as a tool, amongst others.
 
-This text has been derived from [Simon Wardley's writings on
-medium](http://medium.com/wardleymaps) and in
-[Wardleypedia](https://wardleypedia.org/mediawiki/index.php/Doctrine_Patterns)
+This text has been derived from [Simon Wardley's writings on medium](http://medium.com/wardleymaps) and in [Wardleypedia](https://wardleypedia.org/mediawiki/index.php/Doctrine_Patterns)
 
 [![Wardley's Doctrine](/assets/img/doctrine-behaviours.png)](/assets/img/doctrine-behaviours.png)
 
 ## Communication
 
-We want to ensure that people speak freely, using language everybody
-understands. We want to make sure that the factors that influence the
-environment we are in are understood when decisions are made, and we
-want to ensure that the way in which we make decisions is, in so far
-as is possible, open, transparent, and communicated clearly.
+We want to ensure that people speak freely, using language everybody understands. We want to make sure that the factors that influence the environment we are in are understood when decisions are made, and we want to ensure that the way in which we make decisions is, in so far as is possible, open, transparent, and communicated clearly.
 
 ### Do we use a common language?
 
@@ -92,7 +78,7 @@ We seek to remove duplication (i.e. building the same thing multiple
 times) and bias (building for ourselves that which is an attainable
 commodity).
 
-### Do we use appropriate methods in appropriate places?
+### Do we use appropriate methods in the appropriate places?
 
 We try to avoid the tyranny of one. There is no magic solution and we
 have to use methods (e.g. agile or lean or six sigma) as
@@ -138,76 +124,47 @@ building one from scratch.
 
 After we've built things, we need to run them.
 
-In this section, we'll consider the various doctrine patterns that
-impact most strongly on our operations. Are we all over the things
-that we need to know about?  Do we know why we are doing certain
-things in certain ways? Do we allow that there might be new and better
-approaches for things we're already doing?
+In this section, we'll consider the various doctrine patterns that impact most strongly on our operations. Are we all over the things that we need to know about?  Do we know why we are doing certain things in certain ways? Do we allow that there might be new and better approaches for things we're already doing?
 
-Do we build the expectation of failure into how we operate? And do we
-try to set exceptional standards in everything we do?
+Do we build the expectation of failure into how we operate? And do we try to set exceptional standards in everything we do?
 
-Once something is running and working well, do we look to improve its
-efficiency so that it becomes less expensive? Or do we rest on our
-laurels?
+Once something is running and working well, do we look to improve its efficiency so that it becomes less expensive? Or do we rest on our laurels?
 
 ### Do we know the details?
 
-We use small teams and break large landscapes into small
-services. We're don't back down by fears of the complexity of
-management or "too many interfaces to manage". We get under the hood
-of things and break them down.
+We use small teams and break large landscapes into small services. We're don't back down by fears of the complexity of management or "too many interfaces to manage". We get under the hood of things and break them down.
 
 ### Do we manage inertia?
 
-We all display it. It's caused by past success. When we find ourselves
-saying "but this is how we do it" or "but this has always worked in
-the past" or "if it ain't broke don't fix it" then we question why
-we're saying this.
+We all display it. It's caused by past success. When we find ourselves saying "but this is how we do it" or "but this has always worked in the past" or "if it ain't broke don't fix it" then we question why we're saying this.
 
 ### Do we manage failure?
 
-In any system there is risk. We try to understand failure modes, what
-can go wrong and what will be impacted when a component fails. We try
-where possible to mitigate risks by distributing systems, by designing
-for failure and by the constant introduction of failure as a means of
-testing our response.
+In any system there is risk. We try to understand failure modes, what can go wrong and what will be impacted when a component fails. We try where possible to mitigate risks by distributing systems, by designing for failure and by the constant introduction of failure as a means of testing our response.
 
 ### Do we prioritise effectiveness over efficiency?
 
-We're careful not to waste valuable time making the ineffective more
-efficient. Instead, we replace it with something that works better.
+We're careful not to waste valuable time making the ineffective more efficient. Instead, we replace it with something that works better.
 
 ### Do we optimise flow?
 
-Anything which gets in the way of meeting user needs, being fast, or
-preventing transparency on relevant information is treated ruthlessly.
-Whether it is with what we build or how we run it afterwards, we
-remove bottlenecks and improve throughput where possible.
+Anything which gets in the way of meeting user needs, being fast, or preventing transparency on relevant information is treated ruthlessly. Whether it is with what we build or how we run it afterwards, we remove bottlenecks and improve throughput where possible.
 
 ### Do we get better with less?
 
-We strive to improve continuously. Do we set exceptional standards? We
-strive for the very best that can be achieved.
+We strive to improve continuously. Do we set exceptional standards? We strive for the very best that can be achieved.
 
 ## Learning
 
-Building methods of learning into the organization is essential to
-improve our organization. These doctrine patterns lead us towards
-that.
+Building methods of learning into the organization is essential to improve our organization. These doctrine patterns lead us towards that.
 
-When in doubt, we do something. Not because we know it is the right
-answer, but because it might be.
+When in doubt, we do something. Not because we know it is the right answer, but because it might be.
 
-We try new things because otherwise, we won't discover better
-approaches, but we try to make sure that the lessons we might learn
-from those attempts can be shared among all of us so that we all get
-better.
+We try new things because otherwise, we won't discover better approaches, but we try to make sure that the lessons we might learn from those attempts can be shared among all of us so that we all get better.
 
 ### Do we use systematic mechanisms of learning?
 
-We try to introduce mechanisms of learning into our organization that
-compel it to improve.
+We try to introduce mechanisms of learning into our organization that compel it to improve.
 
 ### Do we have a bias towards action?
 
@@ -222,26 +179,15 @@ learn.
 
 ### Do we listen to our ecosystem?
 
-The ecosystems that we create are powerful sensors for future
-change. But ecosystems need management, they need tending as a
-gardener tends a garden - sometimes we'll allow them to grow wild,
-sometimes we'll harvest, and sometimes we'll help direct or constrain
-them. These are particular skills that we can develop but the most
-important skill is that we listen to them.
+The ecosystems that we create are powerful sensors for future change. But ecosystems need management, they need tending as a gardener tends a garden - sometimes we'll allow them to grow wild, sometimes we'll harvest, and sometimes we'll help direct or constrain them. These are particular skills that we can develop but the most important skill is that we listen to them.
 
 ## Leading
 
-Leadership is essential to a strong organization, and these doctrine
-patterns help us think about that.
+Leadership is essential to a strong organization, and these behaviours help us think about that.
 
-We try to make decisions quickly, measure the outcome and respond, and
-we know that strategy will change and develop over time. We want to
-get things right, but we know if a better way of doing something comes
-along then we need to be humble and adopt it.
+We try to make decisions quickly, measure the outcome and respond, and we know that strategy will change and develop over time. We want to get things right, but we know if a better way of doing something comes along then we need to be humble and adopt it.
 
-Do we try to pick a direction of travel, and then deal with the
-problems as they come along, or do we change direction at the first
-sign of a challenge?
+Do we try to pick a direction of travel, and then deal with the problems as they come along, or do we change direction at the first sign of a challenge?
 
 ### Do we move fast?
 
@@ -249,70 +195,39 @@ An imperfect plan executed today is better than a perfect plan executed tomorrow
 
 ### Do we recognise that strategy is iterative?
 
-Instead of long-winded plans, we will have a direction towards a
-position and adapt as needed. We will "cross the river by feeling the
-stones".  Do we pick a direction and stick to it, while adapting to
-challenges along the way?  Once we've set a direction we commit to it.
+Instead of long-winded plans, we will have a direction towards a position and adapt as needed. We will "cross the river by feeling the stones".  Do we pick a direction and stick to it, while adapting to challenges along the way?  Once we've set a direction we commit to it.
 
-There will often be hurdles and obstacles but we don't just simply
-abandon a direction because a single step is challenging. We try to
-find paths around the obstacles. When we're building systems and a
-common component isn't quite as expected then that is a potential
-opportunity.
+There will often be hurdles and obstacles but we don't just simply abandon a direction because a single step is challenging. We try to find paths around the obstacles. When we're building systems and a common component isn't quite as expected then that is a potential opportunity.
 
 ### Do we take ownership?
 
-We take responsibility for our environment, our actions within it and
-how we play the game. We could let someone else decide for us, but
-that way we don't learn and we still can lose.
+We take responsibility for our environment, our actions within it and how we play the game. We could let someone else decide for us, but that way we don't learn and we still can lose.
 
 ### Do we try to inspire others?
 
-Whilst the actions we take, the way that we organize and the focus on
-detail requires us to think small when it comes to inspiring others
-and providing direction & moral imperative then we think big.
+Whilst the actions we take, the way that we organize and the focus on detail requires us to think small when it comes to inspiring others and providing direction & moral imperative then we think big.
 
 ### Do we embrace uncertainty?
 
-There will be uncertainty, emerging patterns and surprises along the
-way. We embrace this and don't fall for the temptation that we can
-plan the future. What matters is not the plan but the preparation and
-our ability to adapt.
+There will be uncertainty, emerging patterns and surprises along the way. We embrace this and don't fall for the temptation that we can plan the future. What matters is not the plan but the preparation and our ability to adapt.
 
 ### Are we humble?
 
-We listen to others, act selflessly, have fortitude and humility. We
-inspire others by who you are and what you do. We don't believe our
-own hype or pretend we are infallible.
+We listen to others, act selflessly, have fortitude and humility. We inspire others by who you are and what you do. We don't believe our own hype or pretend we are infallible.
 
 ### Do we try to exploit the landscape we find ourselves in?
 
-We use the landscape to your advantage. We look for and exploit
-powerful force multipliers to make the right moves, at the right
-times.  Do we recognise that there is no core?  Everything is
-transient, whatever we think is core to what we are doing now, won't
-be at some point in the future. The only things that are truly static
-are dead.
+We use the landscape to your advantage. We look for and exploit powerful force multipliers to make the right moves, at the right times.  Do we recognise that there is no core?  Everything is transient, whatever we think is core to what we are doing now, won't be at some point in the future. The only things that are truly static are dead.
 
 ## Structure
 
-In the final section, we want to think about how we organize
-things. We need to recognize that small teams that are empowered to
-make decisions about how they will reach achievable goals are a better
-way of organizing ourselves, but that the people who work in those
-teams need to be right for the nature of the task.
+In the final section, we want to think about how we organize things. We need to recognize that small teams that are empowered to make decisions about how they will reach achievable goals are a better way of organizing ourselves, but that the people who work in those teams need to be right for the nature of the task.
 
-We want to make sure that we strive for excellence, and that we don't
-accept second-best. We need to build into our organization the idea
-that things will change over time, and that we will need to change to
-meet new challenges as they emerge.
+We want to make sure that we strive for excellence, and that we don't accept second-best. We need to build into our organization the idea that things will change over time, and that we will need to change to meet new challenges as they emerge.
 
 ### Do we think in terms of small teams?
 
-When we're exploring the uncharted space a team of 3-5 is
-appropriate. When building a product then 10-12 seems more apt. When
-providing an industrialized commodity then a larger team can be argued
-for. We try to make our teams the right size for the task at hand.
+When we're exploring the uncharted space a team of 3-5 is appropriate. When building a product then 10-12 seems more apt. When providing an industrialized commodity then a larger team can be argued for. We try to make our teams the right size for the task at hand.
 
 ### Do we distribute power and decision making?
 
@@ -320,39 +235,20 @@ We try to put power in the hands of those who are closest to the decisions that 
 
 ### Do we think aptitude and attitude?
 
-Each team may contain discrete skills or aptitudes. But each aptitude
-has an attitude; the culture, methods and techniques for agile
-development of an entirely novel act are not the same as those for
-building a highly industrialized component. When we determine the
-composition of the team, we consider not only the aptitude but the
-attitude. The combination helps us be more effective.
+Each team may contain discrete skills or aptitudes. But each aptitude has an attitude; the culture, methods and techniques for agile development of an entirely novel act are not the same as those for building a highly industrialized component. When we determine the composition of the team, we consider not only the aptitude but the attitude. The combination helps us be more effective.
 
 ### Do we provide purpose, seek to attain mastery, and allow for autonomy?
 
-Each team is autonomous within the confines of what it is supposed to
-do. Each team, therefore, owns what it does. Each team knows how they
-fit into the whole and can develop mastery in both aptitude and
-attitude.
+Each team is autonomous within the confines of what it is supposed to do. Each team, therefore, owns what it does. Each team knows how they fit into the whole and can develop mastery in both aptitude and attitude.
 
 ### Do we seek the best?
 
-We try to find and grow the best people with the best aptitude and
-attitude for their roles. We invest in keeping them. We don't force
-them into becoming something they're not.
+We try to find and grow the best people with the best aptitude and attitude for their roles. We invest in keeping them. We don't force them into becoming something they're not.
 
 ### Do we recognize that there is no single culture?
 
-We understand that an organization that plans for longevity needs to
-cope with not only the discovery of new things but also the use of
-things that have become industrialized while transitioning other
-things between these two extremes. We will, therefore, need to allow
-for different approaches at different times. We won't insist upon
-round pegs or square holes; we won't grind people down into one way of
-looking at the world.
+We understand that an organization that plans for longevity needs to cope with not only the discovery of new things but also the use of things that have become industrialized while transitioning other things between these two extremes. We will, therefore, need to allow for different approaches at different times. We won't insist upon round pegs or square holes; we won't grind people down into one way of looking at the world.
 
 ### Do we design for constant evolution?
 
-Whilst a team might become a semi-permanent structure, the work it
-undertakes will evolve. It is, therefore, a duty to ensure that work
-evolves through the organization and that the makeup of teams changes
-over time.
+Whilst a team might become a semi-permanent structure, the work it undertakes will evolve. It is, therefore, a duty to ensure that work evolves through the organization and that the makeup of teams changes over time.
