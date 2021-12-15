@@ -1,17 +1,11 @@
 ---
 layout: document
-subtitle: Executive
+subtitle: The Executive
 tags:
 - concept
 
 ---
-The OSOM executive provides oversight and governance to the service network by holding service managers accountable for their services, through a number of tools and methods.
-
-This article provides terms of reference for the individual or team performing the role of the executive in OSOM.
-
-## The executive
-
-The executive holds the accountability and responsibility for the entire scope of the organisation. This includes both the service network and the executive team.
+The OSOM executive provides oversight and governance to the [service network](/service-network) by holding [Service Managers](/service-managers) accountable for their services, through a number of tools and methods.
 
 In an ideal organisation, there would be no requirement for an executive _team_. The responsibilities held by the executive, and the activities required to act upon those responsibilities would be conducted entirely by a single individual. However, given constraints of time, complexity and expertise it is unlikely to be possible. Therefore the executive is responsible for augmenting their own skills with the addition of executive team members who speak with the voice of the executive.
 
@@ -37,7 +31,7 @@ A key role of the executive is to establish services; conduct assessments on the
 
 ### Establish Services
 
-The Executive [establishes a service](/establishing-a-new-service/) by publishing a Service Contract, allocating a budget and appointing a Service Manager for the service. Typically, a new service will start the service lifecycle in discovery and progress through alpha and beta where the contract and how it is delivered will be refined until it is live.
+The Executive [establishes a service](/establishing-a-new-service/) by publishing a [Service Contract](/service-contract), allocating a budget and appointing a Service Manager for the service. Typically, a new service will start the service lifecycle in discovery and progress through alpha and beta where the contract and how it is delivered will be refined until it is live.
 
 In some instances - for example, as OSOM is adopted in an existing organisation - a service contract may be written for a service that already exists. In this case, the service may not progress through the service lifecycle as normal, but in all other respects should be governed as any other service.
 
