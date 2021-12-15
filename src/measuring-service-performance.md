@@ -17,7 +17,7 @@ Often people confuse metrics with targets, but it is important to consider them 
 
 For example, the consumer of an IaaS-type service may have a requirement for 99.999% uptime. The IaaS-type service should be reporting the uptime as a measurement. The target will influence a service's decision to consume a service or not. 
 
-If there is a service that is created to serve a particular target - for example, a high-availability IaaS service, then that should be captured as a user need.
+If there is a service that is created to serve a particular target - for example, a high-availability IaaS service, then that target should be captured as a user need.
 
 ## Recording Service Performance Measures
 
