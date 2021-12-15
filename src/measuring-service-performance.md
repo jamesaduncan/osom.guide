@@ -1,6 +1,6 @@
 ---
 layout: document
-subtitle: Measuring Service Performance
+subtitle: Service Performance Measures
 tags:
 - artefact
 
