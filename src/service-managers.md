@@ -23,7 +23,7 @@ Service managers:
 
 ### Service managers are accountable for their service
 
-Each service has a [contract](#service-contracts) that defines the service, the needs it meets, and how users consume it. Service managers are accountable for delivery against that contract. Within the bounds of that contract, they are free to deliver the service as they see fit. The service is autonomous and operates independently.
+Each service has a [contract](/service-contract) that defines the service, the needs it meets, and how users consume it. Service managers are accountable for delivery against that contract. Within the bounds of that contract, they are free to deliver the service as they see fit. The service is autonomous and operates independently.
 
 ### Service managers use the allocated service budget wisely
 
