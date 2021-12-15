@@ -18,6 +18,7 @@ fields:
 pages:
 - src/assessments.md
 - src/capitalflow.md
+- src/coe-document.md
 - src/coe.md
 - src/community-of-practice.md
 - src/doctrine.md
