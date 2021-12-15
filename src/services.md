@@ -2,8 +2,8 @@
 layout: document
 subtitle: Services
 tags:
-  - concept
-  - service
+- concept
+
 ---
 OSOM services and the network of interactions they form are two key parts of OSOM, the other being the [executive](/executive).
 
