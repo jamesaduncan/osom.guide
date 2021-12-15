@@ -63,3 +63,11 @@ mixture of both.
 Each service is built & operated by a Service Manager, who is
 accountable for the service and the team required in all its lifecycle
 phases - from discovery until its eventual retirement.
+
+## Recent changes
+
+{% for article in collections.all %}
+    {% if loop.index0 < 10 %}    
+1. {{ article.data.subtitle }}
+    {% endif %}
+{% endfor %}
