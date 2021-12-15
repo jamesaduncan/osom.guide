@@ -8,44 +8,20 @@
   <h2>&nbsp;</h2>
   {% endif %}
 
-  {% set sections = [{ title: "Concepts", collection: collections.concept },{ title: "People", collection: collections.people },{ title: "Processes", collection: collections.processes }] %}
+  {% set sections = [
+  { title: "Introduction", url: "/" },
+  { title: "Concepts", collection: collections.concept },
+  { title: "People", collection: collections.people },
+  { title: "Processes", collection: collections.processes }
+  { title: "Artefacts", collection: collections.artefact }]
+  %}
   <menu>
-    <li>
-      <a href="/">Introduction</a>
-    </li>
     {% for section in sections %}
+    {% set url = section.url %}
     {% set title = section.title %}
     {% set collection = section.collection %}
     {% include "menuitem.html" %}
     {% endfor %}
   </menu>
   
-  {#
-  <menu>
-    <li aria-haspopup="true">
-      <a href="#">Concepts</a>
-      <menu aria-label="submenu">
-	{% for post in collections.concept %}
-	<li><a href="{{ post.url }}">{{ post.data.subtitle }}</a></li>
-	{% endfor %}
-      </menu>
-    </li>
-    <li aria-haspopup="true">
-      <a href="#">People</a>
-      <menu aria-label="submenu">
-	{% for post in collections.people %}	
-	<li><a href="{{ post.url }}">{{ post.data.subtitle }}</a></li>	
-	{% endfor %}
-      </menu>
-    </li>
-    <li aria-haspop="true">
-      <a href="#">Processes</a>
-      <menu aria-label="submenu">
-	{% for post in collections.processes %}
-	<li><a href="{{ post.url }}">{{ post.data.subtitle }}</a></li>
-	{% endfor %}
-      </menu>
-    </li>
-  </menu>
-  #}
 </header>
