@@ -1,7 +1,12 @@
 ---
 layout: document
-tags: []
+tags:
+- people
 subtitle: Service Team Members
 
 ---
-Service teams are made up of team members. Team members may be in any profession, and of any discipline. 
+Service teams are made up of team members. Team members may be in any profession, and of any discipline.
+
+Service team members are appointed by a [Service Manager](/service-managers), or by the management structure appointed by the Service Manager. The line management of service team members also follows this organisation as well as any associated processes, such as performance management.
+
+It is recommended that service team members should be evaluated by using some manner of structured professional framework such as HMG's [Digital, Data & Technology (DDaT) profession](https://www.gov.uk/government/organisations/digital-data-and-technology-profession), [Skills for the Information Age (SFIA)](https://sfia-online.org/en), or any other suitable definition of job families, roles, skills and skill levels.
