@@ -1,7 +1,8 @@
 ---
 layout: document
 subtitle: Service Assessments
-tags: []
+tags:
+- processes
 
 ---
 To help ensure the smooth running of a service network, the executive needs to assess each [service](/services/) regularly. This assessment can be conducted directly by the executive or delegated to a team of experts assembled for the task.
