@@ -1,6 +1,7 @@
 ---
 layout: document
-tags: []
+tags:
+- artefact
 subtitle: Service Contract
 
 ---
