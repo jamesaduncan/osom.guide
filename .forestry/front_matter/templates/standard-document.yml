@@ -14,15 +14,17 @@ fields:
   type: tag_list
   default: []
   label: Tags
-  description: Should be set to "concept", "people" or "processes"
+  description: Should be set to "concept", "people", "processes", or "artefact"
 pages:
 - src/assessments.md
 - src/capitalflow.md
+- src/coe-document.md
 - src/coe.md
 - src/community-of-practice.md
 - src/doctrine.md
 - src/establishing-a-new-service.md
 - src/evolution.md
+- src/executive-team-member.md
 - src/executive.md
 - src/index.md
 - src/lifecycle.md
@@ -30,5 +32,6 @@ pages:
 - src/operating-model.md
 - src/service-contract.md
 - src/service-network.md
+- src/service-team-members.md
 - src/services.md
 - src/user-needs.md
