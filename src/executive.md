@@ -97,6 +97,8 @@ This may be guidance from outside the OSOM organisation in the form of legislati
 
 Where possible, the guidance should be advisory in nature. In general, Service Managers should be able to consider and reject the guidance where it is not applicable or appropriate for their particular service - while being asked to account for the decision in their service assessments.
 
+For information about the policy writing process, and how to write better policy an important resource is the work of [Lewis Eisen](https://lewiseisen.com/).
+
 ## Endorse Communities of Practice
 
 In any service-based model, it can be hard to ensure people are evaluated fairly, or that they become aware of practices and opportunities outside of the services they work in. Communities of Practice (CoPs) exist in OSOM to bridge the gap between the profession and the service.
