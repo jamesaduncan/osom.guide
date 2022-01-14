@@ -20,6 +20,7 @@
   "author": "James A. Duncan <james@stance.global>",
   "license": "ISC",
   "dependencies": {
+    "follow-redirects": ">=1.14.7",
     "@11ty/eleventy": "^0.12.1",
     "axios": ">=0.21.2",
     "eleventy-plugin-toc": "^1.1.5",
