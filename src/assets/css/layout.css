@@ -114,10 +114,8 @@ main > :first-child {
 
 header,
 aside {
+    user-select: none;
     padding-left: 1rem;
-}
-
-aside {
     padding-right: 1rem;
 }
 
@@ -136,6 +134,7 @@ main ol.footnotes-list {
 }
 
 menu {
+    user-select: none;
   background: var(--page-background);
   list-style: none;
   margin: 0;
