@@ -91,7 +91,7 @@ The executive should consider conducting a regular meeting with all Service Mana
 
 ## Consider, publish and endorse guidance
 
-The executive is responsible for considering and publishing guidance that it considers relevant for its service managers to consider. This may include guidance on technology selection, architectural patterns, security policies, procurement processes, etc.
+The executive is responsible for considering and publishing guidance for service managers to consider. This may include guidance on technology selection, architectural patterns, security policies, procurement processes, etc.
 
 This may be guidance from outside the OSOM organisation in the form of legislation or best practice, or it may be decided upon from within the service organisation as a result of considering Correction of Errors.
 
