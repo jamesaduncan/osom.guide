@@ -30,6 +30,7 @@ pages:
 - src/lifecycle.md
 - src/measuring-service-performance.md
 - src/operating-model.md
+- src/policy.md
 - src/service-contract.md
 - src/service-network.md
 - src/service-team-members.md
