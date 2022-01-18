@@ -5,11 +5,11 @@ tags:
 - concept
 
 ---
-OSOM builds upon and endorses a set of behaviours known as "Wardley's Doctrine".
+OSOM builds upon and endorses a set of guides to better decisions known as "Wardley's Doctrine".
 
-Simon Wardley's doctrine is a collection of patterns that were carefully researched from the world's most successful organisations, and have been used by Stance to evaluate and underpin its approach to improving organisations, and ultimately to develop [OSOM](/)
+Simon Wardley's doctrine is a collection of patterns that were carefully researched from the world's most successful organisations, and have been used to evaluate and then underpin its approach to improving organisations, and ultimately to develop [OSOM](/)
 
-The behaviours don’t inform us of the precise steps that need to be taken, but they do help us to understand how we’d prefer to see an organisation act: whether it’s assumptions being challenged freely and often, ensuring the user needs are focused upon, embracing uncertainty, or using failure as a tool, amongst others.
+The decision guides don’t inform us of the precise steps that need to be taken, but they do help us to understand how we’d prefer to see an organisation act: whether it’s assumptions being challenged freely and often, ensuring the user needs are focused upon, embracing uncertainty, or using failure as a tool, amongst others.
 
 This text has been derived from [Simon Wardley's writings on medium](http://medium.com/wardleymaps) and in [Wardleypedia](https://wardleypedia.org/mediawiki/index.php/Doctrine_Patterns)
 
