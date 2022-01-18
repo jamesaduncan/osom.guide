@@ -81,7 +81,7 @@ Benefits realization should be reported through these mechanisms.
 
 ## Issue mandates to manipulate the service network
 
-When changes to services or the service network are foreseen or desired, the executive issues mandates to the appropriate service managers. A mandate shouldn’t alter a service contract, but it may have an impact on the way a service manager chooses to meet the needs spelt out in that contract.
+When changes to services or the service network are foreseen or desired, the executive issues mandates to the appropriate service managers. A mandate shouldn’t alter a service contract, but it may have an impact on the way a service manager chooses to meet the needs enumerated in the contract.
 
 ## Review Correction of Error documents
 
