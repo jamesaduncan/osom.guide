@@ -111,7 +111,7 @@ The executive should work with communities of practice to ensure that where poss
 
 In any service network, disputes will arise between services that serve each other. When this occurs it is for the executive to mediate those disputes and find resolution through the mechanisms it already has: mandates, contract alterations, assessments, etc.
 
-## Monitor and advocate good decision making
+## Monitor and advocate better decision making
 
 The executive is responsible for advocating and monitoring the adherence to the [40 guides to better decision](/doctrine)s.
 
