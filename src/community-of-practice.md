@@ -1,6 +1,7 @@
 ---
 layout: document
-tags: []
+tags:
+- people
 subtitle: Community of Practice
 
 ---
@@ -8,7 +9,7 @@ In a service-based organisation rather than a functional one the practitioners o
 
 ## Professional guidance
 
-A Community of Practice issues or endorses professional guidance, relevant to its practitioners. This should include guidance to individual Service Managers who manage practitioners of the profession on how to evaluate their team members.
+A Community of Practice issues or endorses professional guidance, relevant to its practitioners. This should include help for Service Managers who manage practitioners of the profession on how to evaluate them.
 
 ## Opportunities in the service network
 
