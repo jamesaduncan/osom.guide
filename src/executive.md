@@ -93,11 +93,11 @@ The executive should consider conducting a regular meeting with all Service Mana
 
 The executive is responsible for considering and publishing guidance for service managers to consider. This may include guidance on technology selection, architectural patterns, security policies, procurement processes, etc.
 
-This may be guidance from outside the OSOM organisation in the form of legislation or best practice, or it may be decided upon from within the service organisation as a result of considering Correction of Errors.
+This may be guidance from outside the OSOM organisation in the form of legislation or best practice, or it may emerge from within the service organisation as a result of considering Correction of Errors.
 
 Where possible, the guidance should be advisory in nature. In general, Service Managers should be able to consider and reject the guidance where it is not applicable or appropriate for their particular service - while being asked to account for the decision in their service assessments.
 
-For information about the policy writing process, and how to write better policy an important resource is the work of [Lewis Eisen](https://lewiseisen.com/).
+[Lewis Eisen](https://lewiseisen.com/)'s work provides practical, concise help for people who want to write better policies that people want to follow.
 
 ## Endorse Communities of Practice
 
