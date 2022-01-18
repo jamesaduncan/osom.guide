@@ -4,13 +4,13 @@ tags: []
 subtitle: Community of Practice
 
 ---
-In a service-based organisation, rather than a functional one the practitioners of individual professions can feel isolated from one another. Communities of practice exist to help alleviate that isolation, providing professional guidance and shared learning opportunities across services.
+In a service-based organisation rather than a functional one the practitioners of individual professions can feel isolated from one another. Communities of practice exist to help alleviate that isolation, providing professional guidance and shared learning opportunities across services.
 
-## Professional Guidance
+## Professional guidance
 
 A Community of Practice issues or endorses professional guidance, relevant to its practitioners. This should include guidance to individual Service Managers who manage practitioners of the profession on how to evaluate their team members.
 
-## Opportunities in the Service Network
+## Opportunities in the service network
 
 A Community of Practice ensures that new opportunities in the service network are visible and available to practitioners. The Community of Practice should work with service managers to identify individual practitioners of a profession that could be a good fit for any given service team.
 
