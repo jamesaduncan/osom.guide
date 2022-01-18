@@ -101,7 +101,7 @@ Where possible, the guidance should be advisory in nature. In general, Service M
 
 ## Endorse Communities of Practice
 
-In any service-based model, it can be hard to ensure people are evaluated fairly, or that they become aware of practices and opportunities outside of the services they work in. Communities of Practice (CoPs) exist in OSOM to bridge the gap between the profession and the service.
+In any service-based model, it can be hard to ensure people are evaluated fairly, or that they become aware of practices and opportunities outside of the services they work in. [Communities of Practice](/community-of-practice/) (CoPs) exist in OSOM to bridge the gap between the profession and the service.
 
 CoPs are freely associated with anybody in the organisation. It is up to the executive to determine when a community has reached a sufficient level of maturity to assist service managers with guidance on evaluation for its practitioners, and then endorse that CoP to do so.
 
