@@ -1,6 +1,6 @@
 ---
 layout: document
-subtitle: Behaviours
+subtitle: Making better decisions
 tags:
 - concept
 
