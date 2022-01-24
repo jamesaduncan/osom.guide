@@ -21,7 +21,7 @@ The executive has a number of roles and responsibilities in OSOM:
 6. Consider, publish and endorse guidance
 7. Endorse Communities of Practice
 8. Mediate between services
-9. Monitor and advocate doctrine
+9. Monitor and advocate advocate better decision making
 
 ## Establish, decommission, assess, alter, and hold services accountable
 
@@ -59,7 +59,7 @@ The executive can do this, but should only do so sparingly: a contract change ha
 
 ### Hold services accountable
 
-The Executive is responsible for holding Service Managers accountable for the services they operate. This includes performance, conformance to guidance, methodology, doctrine, and any other consideration the executive wishes.
+The Executive is responsible for holding Service Managers accountable for the services they operate. This includes performance, conformance to guidance, methodology, decision making, and any other consideration the executive wishes.
 
 It should be noted that the Executive does not have the authority to dictate any of these elements to the service, via the Service Manager, but it does have the authority to appoint and replace the Service Manager if it sees fit.
 
