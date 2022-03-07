@@ -17,3 +17,5 @@ The CoE document should contain:
 * The value tradeoffs that need to be avoided in the future
 * Lessons that were learned
 * Corrective actions that have been, or will be taken
+
+The Correction of Error document should also capture how the various elements of the better [decision making guides](/doctrine/) played in to the error.
