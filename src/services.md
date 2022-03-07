@@ -20,7 +20,8 @@ Services have a contract they are required to meet and a budget with which to me
 To govern the network of services, the [executive](/executive) requires additional information about each service that helps them understand and make changes when needed.
 
 1. A Wardley Map of how the service is delivered and the components it requires
-2. The guidance that the service manager has rejected
-3. [Correction of Error documents](/coe-document/) as they are created
+2. Performance data
+3. The guidance that the service manager has rejected
+4. [Correction of Error documents](/coe-document/) as they are created
 
 {% include moresoon.html %}
