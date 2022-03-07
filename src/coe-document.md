@@ -18,4 +18,4 @@ The CoE document should contain:
 * Lessons that were learned
 * Corrective actions that have been, or will be taken
 
-The Correction of Error document should also capture how the various elements of the better [decision making guides](/doctrine/) made either a positive or negative contribution to the problem.
+The Correction of Error document should also capture how the various elements of the better [decision making guides](/doctrine/) made either a positive or negative contribution to the problem or its resolution.
