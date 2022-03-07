@@ -17,5 +17,6 @@ The CoE document should contain:
 * The value tradeoffs that need to be avoided in the future
 * Lessons that were learned
 * Corrective actions that have been, or will be taken
+* Elements of the [better decision making guides](/doctrine/) that made a positive or negative contribution to the problem or its resolution.
 
-The Correction of Error document should also capture how the various elements of the better [decision making guides](/doctrine/) made either a positive or negative contribution to the problem or its resolution.
+The Correction of Error document may then be called upon for further examination during a [Correction of Error process]().
