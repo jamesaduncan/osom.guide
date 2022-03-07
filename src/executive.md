@@ -109,10 +109,10 @@ The executive should work with communities of practice to ensure that where poss
 
 ## Mediate between services
 
-In any service network, disputes will arise between services that serve each other. When this occurs it is for the executive to mediate those disputes and find resolution through the mechanisms it already has: mandates, contract alterations, assessments, etc.
+In any service network, disputes will arise between services that serve each other. When this occurs, the executive must mediate those disputes and find resolution through the mechanisms it already has: mandates, contract alterations, assessments, etc.
 
 ## Monitor and advocate better decision making
 
-The executive is responsible for advocating and monitoring the adherence to the [40 guides to better decision](/doctrine)s. One of the ways in which this happens is automatically, through the [Correction of Error process](/coe/).
+The executive is responsible for advocating and monitoring the adherence to the [40 guides to better decision](/doctrine)s. One of the ways in which this happens is through the [Correction of Error process](/coe/).
 
 Each of the elements of OSOM has been designed in conjunction with the application of those behaviours, and the executive is responsible for constantly being aware of opportunities to alter the operating model more in line with them when needed.
