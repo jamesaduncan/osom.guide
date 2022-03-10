@@ -20,4 +20,6 @@ The executive should use the service assessment to either help guide the service
 
 ## ...a service team member feels they've been evaluated incorrectly?
 
-Service team members are line managed, and as a consequence, performance managed by their [service manager](/service-manager/). This allows for accountability for all elements of the service to be held by the service manager, but can sometimes result in individuals feeling that their
+[Service team members](/service-team-members/) are line managed, and as a consequence, performance managed by their [service manager](/service-manager/). This allows for accountability for all elements of the service to be held by the service manager, but can sometimes result in individuals feeling that their line management is being conducted by someone who doesn't really understand their profession and how to evaluate it.
+
+[Communities of Practice](/community-of-practice/) play a part in this, providing guidance to service managers on how to evaluate their professional members - as do Capability Frameworks. Where there is an intractable difference of opinion, the service team member can have the Community of Practice escalate the concern to the executive, who then mediate the disagreement.
