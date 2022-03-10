@@ -4,7 +4,7 @@ tags: []
 subtitle: What happens when...
 
 ---
-## ...a service underspends its budget
+## ...a service doesn't spend its budget
 
 When a service finds savings against its budget, it should be free to invest that budget elsewhere if needed.
 
