@@ -47,4 +47,14 @@ In some organisations, it may be that the assessment is also the approval body f
 
 ## After an alpha phase
 
+When the alpha phase ends, an assessment will need to be conducted to determine whether or not the service should proceed to the beta phase.
+
+During the alpha phase, various tools and technologies will have been assessed to determine whether or not the needs articulated in the services' contract _can_ be met.
+
+There are three possible outcomes of an alpha phase:
+
+1. There are no suitable ways to meet the need
+2. There are multiple ways to meet the need but the best way has yet to be determined
+3. The best way to meet the need has been determined, and the service should continue to its beta phase.
+
 {% include moresoon.html %}
