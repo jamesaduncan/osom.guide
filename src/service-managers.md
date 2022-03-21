@@ -7,11 +7,9 @@ tags:
 ---
 ## Service managers
 
-Service managers individually manage services. Ideally, the service
-manager would have the capability to deliver every element of their
-service - designing it, building or buying it, and then running it -
-however, in practice, they must build and manage a team capable of
-doing all of those things.
+Service managers individually manage services. Ideally, the service manager would have the capability to deliver every element of their service - designing it, building or buying it, and then running it - however, in practice, they must build and manage a team capable of doing all of those things.
+
+In some instances, Service Managers may be responsible for more than one service. Where that occurs, it is happenstance. The individual services maintain their independence from each other and any relevant allocations - staff, budget, etc should be maintained within each individual service.
 
 Service managers:
 
