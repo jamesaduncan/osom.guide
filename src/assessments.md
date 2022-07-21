@@ -9,6 +9,8 @@ To help ensure the smooth running of a service network, the executive needs to a
 
 The primary purpose of the assessment is to understand how well the service meets the user needs, but it will also examine how the service is being managed and how well it has adopted the [behaviours](/doctrine).
 
+An agenda including the executive's chosen [assessment criteria](/service-assessment-criteria/) will be distributed in advance, and once assessed the executive will publish a service assessment report.
+
 While the purpose of the assessment remains the same, the nature of the assessment will change as the service progresses through the [lifecycle](/lifecycle/).
 
 ## After a discovery phase
