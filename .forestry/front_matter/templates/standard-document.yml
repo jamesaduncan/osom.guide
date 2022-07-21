@@ -32,6 +32,7 @@ pages:
 - src/operating-model.md
 - src/policy.md
 - src/service-assessment-criteria.md
+- src/service-assessment-report.md
 - src/service-autonomy.md
 - src/service-contract.md
 - src/service-network.md
