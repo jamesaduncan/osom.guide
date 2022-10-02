@@ -307,3 +307,11 @@ nav.toc li a {
   text-decoration: none;
   color: #446;
 }
+
+img.right {
+  padding-left: 2.5em;
+}
+
+img.left {
+  padding-right: 2.5em;
+}

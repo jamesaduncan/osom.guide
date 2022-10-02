@@ -33,3 +33,10 @@ header a {
 header a:visited {
     color: var(--text-color);
 }
+
+.right {
+    float: right;
+}
+.left {
+    float: left;
+}
