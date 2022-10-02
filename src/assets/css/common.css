@@ -6,6 +6,7 @@ html {
     --menu-background: #eee;
     --menu-current-background: #eee;
     --menu-hover-background: lightgrey;
+    --footer-background: #ddd;
 }
 
 body {

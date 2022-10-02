@@ -80,8 +80,8 @@ p {
 body {
     margin: 0;
     display: grid;
-    grid-template-columns: [side] 30vw [content] 40vw;
-    grid-template-rows: [head] 10rem [body] auto [foot] 10rem;
+    grid-template-columns: [side] minmax(20rem, 1fr) [content] 3fr;
+    grid-template-rows: [head] auto [body] auto [foot] 7rem;
 
     color: var(--text-color);
     background: var(--page-background);
@@ -94,6 +94,7 @@ body > header {
 body > footer {
     grid-column: side / span 2;
     font-size: .8em;
+    background: var(--footer-background);
 }
 
 body > footer > p {
@@ -106,6 +107,7 @@ body > main {
     padding: 0;
     border-left: 1px solid var(--menu-hover-background);
     padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 main > :first-child {
