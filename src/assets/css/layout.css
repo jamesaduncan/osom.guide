@@ -89,6 +89,10 @@ div#body {
 
 div#body > header {
     grid-column: side / span 2;
+    display: flex;
+    flex-flow: column nowrap;
+    border-bottom: 2px solid var(--menu-hover-background);
+    margin-bottom: 1rem;
 }
 
 div#body > footer {
@@ -129,6 +133,16 @@ div#body > main.full-width {
   grid-column: side / span 2;
 }
 
+/**
+* Header
+*/
+header > nav.top {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  gap: 10px;
+}
+
 header a {
     text-decoration: none;
 }
@@ -144,11 +158,18 @@ main ol.footnotes-list {
 }
 
 menu {
-    user-select: none;
+  user-select: none;
   background: var(--page-background);
   list-style: none;
   margin: 0;
   padding-left: 0;
+  flex-grow: 1;
+
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
 }
 
 
@@ -157,24 +178,42 @@ menu li {
   background: var(--page-background);
   display: block;
   float: left;
-  padding: 1rem;
+  padding: 1rem 1rem 0.5rem 1rem;
   position: relative;
   text-decoration: none;
   transition-duration: 0.5s;
 }
-  
+
 menu li a {
     color: var(--text-background);
 }
 
 menu li:hover,
 menu li:focus-within {
+  color: var(--menu-hover);
   background: var(--menu-hover-background);
   cursor: pointer;
 }
 
 [aria-current="page"] {
     background: var(--menu-current-background);
+}
+
+menu li > a::after {
+  content: "";
+  display: block;
+  margin: auto;
+  height: 3px;
+  width: 0;
+  top: 5px;
+  background: transparent;
+  transition: all 0.3s;
+}
+
+menu li > a:hover::after,
+menu li > a.active-nav::after {
+  width: 100%;
+  background: var(--menu-hover-underline);
 }
 
 menu li menu {
@@ -186,7 +225,7 @@ menu li menu {
   min-width: 20rem;
   position: absolute;
   transition: all 0.5s ease;
-  margin-top: 1rem;
+  margin-top: 0.5rem;
   left: 0;
   display: none;
 }
@@ -206,4 +245,13 @@ menu li menu li {
 
 menu li:focus-within a {
   outline: none;
+}
+
+.logo {
+  display: block;
+  /* text-indent: -9999px; */
+  width: 2em;
+  height: 2em;
+  background: url(/assets/img/operating-model-colour.svg);
+  background-size: 2em 2em;
 }

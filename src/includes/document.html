@@ -9,11 +9,12 @@ title: OSOM Guide
     {% include 'header.html' %}
 
     <aside {% if hideaside %}class="hide"{% endif %}>
-      <h3>{% if asidetitle %}{{ asidetitle | safe }}{% else %}In this page{% endif %}</h3>
+      <span>{% if asidetitle %}{{ asidetitle | safe }}{% else %}In this page...{% endif %}</span>
       {{ content | toc | safe }}
     </aside>
 
     <main {% if hideaside %}class="full-width"{% endif %}>
+      {% if subtitle %}<h2 class="sub-title">{{ subtitle | safe }}</h2>{% endif %}
       {{ content | safe }}
     </main>
 
