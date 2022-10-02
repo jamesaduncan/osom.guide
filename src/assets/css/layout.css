@@ -119,6 +119,14 @@ aside {
     padding-right: 1rem;
 }
 
+aside.hide {
+  display: none;
+}
+
+body > main.full-width {
+  grid-column: side / span 2;
+}
+
 header a {
     text-decoration: none;
 }
