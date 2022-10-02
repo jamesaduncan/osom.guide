@@ -152,6 +152,7 @@ header a:visited {
 }
 
 main ol.footnotes-list {
+    /* TODO: is this class unused? */
     font-size: .75em;
     margin-left: 1em;
     list-style: decimal;
@@ -199,7 +200,9 @@ menu li:focus-within {
     background: var(--menu-current-background);
 }
 
-menu li > a::after {
+/* underline on hover */
+menu li > a::after,
+nav.toc li > a::after {
   content: "";
   display: block;
   margin: auto;
@@ -209,15 +212,16 @@ menu li > a::after {
   background: transparent;
   transition: all 0.3s;
 }
-
 menu li > a:hover::after,
-menu li > a.active-nav::after {
+menu li > a.active-nav::after,
+nav.toc li > a:hover::after,
+nav.toc li > a.active-nav::after {
   width: 100%;
   background: var(--menu-hover-underline);
 }
 
 menu li menu {
-    border-left: 1px solid #eee;
+  border-left: 1px solid #eee;
   box-shadow: 2.5px 2.5px 2.5px #eee;
   background: var(--menu-background);
   visibility: hidden;
@@ -249,9 +253,57 @@ menu li:focus-within a {
 
 .logo {
   display: block;
-  /* text-indent: -9999px; */
   width: 2em;
   height: 2em;
-  background: url(/assets/img/operating-model-colour.svg);
+  background: url(/assets/img/operating-model-grey.svg);
   background-size: 2em 2em;
+}
+
+.logo:hover {
+  display: block;
+  background: url(/assets/img/operating-model-colour.svg);
+}
+
+/**
+ * Aside TOC
+ */
+nav.toc ol {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+  margin: 0;
+  padding: 0;
+  
+  list-style: none;
+  font-size: 0.9rem;
+}
+
+nav.toc > ol {
+  background-color: #eee;
+  border-radius: 8px;
+  padding: 5px;
+}
+
+nav.toc li {
+  text-indent: 0;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid #fafafa;
+  width: 100%;
+}
+
+nav.toc > ol > li:first-child {
+  border-top: none;
+}
+
+nav.toc li > ol {
+  /* indent sub-menus */
+  margin-left: 1rem;
+}
+
+nav.toc li a {
+  text-decoration: none;
+  color: #446;
 }
