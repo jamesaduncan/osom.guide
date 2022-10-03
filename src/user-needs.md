@@ -17,15 +17,15 @@ The Government Digital Service's Service Manual [entry on user needs](https://ww
 
 The [service manual's example user need](https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs#writing-user-needs) is a good example of a need that might be captured in a service contract:
 
-> As a British person
+> _As a British person_
 >
-> I need to provide proof of my identity and visa permissions to border control
+> _I need to provide proof of my identity and visa permissions to border control_
 >
-> So that I can travel abroad and prove my identity
+> _So that I can travel abroad and prove my identity_
 
 The need captures _who_ has the need (the user), _what_ they need to do (the asset or activity), and _why_ they need to do it (the outcome). 
 
-This user need is a particularly good example, because it doesn't make assumptions about _how (_a passport).
+This user need is a particularly good example, because it doesn't make assumptions about _how_ (a passport).
 
 ## Outcomes & Service Metrics
 
