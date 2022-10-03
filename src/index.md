@@ -3,6 +3,8 @@ layout: document
 tags:
 - homepage
 hideaside: true
+subtitle: ''
+
 ---
 # Introduction to OSOM
 <img class="right pad-left" src="/assets/img/operating-model-overview.png" alt="a diagram showing an overview of the basic parts of OSOM" title="OSOM Overview">
@@ -53,6 +55,7 @@ Each service is built & operated by a Service Manager, who is
 accountable for the service and the team required in all its lifecycle
 phases - from discovery until its eventual retirement.
 
+<!--
 ## Recent changes
 
 {% for article in collections.all limit:5 reversed %}
@@ -60,3 +63,4 @@ phases - from discovery until its eventual retirement.
 1. [{{ article.data.subtitle }}]({{ article.url }})
 {% endif %}
 {% endfor %}
+-->
