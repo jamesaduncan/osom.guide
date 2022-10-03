@@ -1,10 +1,12 @@
 ---
 layout: document
-subtitle: ''
 tags:
 - homepage
-
+hideaside: true
 ---
+# Introduction to OSOM
+<img class="right pad-left" src="/assets/img/operating-model-overview.png" alt="a diagram showing an overview of the basic parts of OSOM" title="OSOM Overview">
+
 The Organised Services Operating Model (OSOM) is a template operating
 model to help organisations adopt a service-based approach. This is in
 opposition to a functional model, where capabilities are grouped by
@@ -20,10 +22,6 @@ a simple [service lifecycle](/lifecycle) compatible with the
 Service's](https://www.gov.uk/government/organisations/government-digital-service)
 [service manual](https://www.gov.uk/service-manual).
 
-[![a diagram showing an overview of the various parts of](/assets/img/opmodel-overview.jpg "OSOM
-Oviewview")](/assets/img/opmodel-overview.jpg "Operating model
-overview diagram")
-
 ## A template operating model
 
 OSOM is a template operating model. Each organisation is different,
@@ -33,16 +31,7 @@ carefully adapted as needed to the organisation.
 
 The key to adapting an operating model for any organisation is to be aware of the trade-offs being made with each compromise, both positive and negative. That way, governance can be established to balance the negative consequences, and full advantage can be taken of positive consequences.
 
-## Previous documentation
-
-This site is an evolution of the original [OSOM
-documentation](http://stance.consulting/osom/). While the
-documentation almost certainly remains incomplete, this site takes
-precedence and overrides any contradictions between the two.
-
 ## Elements of OSOM
-
-![](/assets/img/osom-overview.svg)
 
 ### The executive
 

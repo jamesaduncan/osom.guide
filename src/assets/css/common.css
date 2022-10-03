@@ -3,9 +3,16 @@ html {
     --text-color: black;
     
     --page-background: #fff;
+
     --menu-background: #eee;
     --menu-current-background: #eee;
-    --menu-hover-background: lightgrey;
+    --menu-hover: var(--text-color);
+    --menu-hover-underline: rgb(39, 115, 187);
+    --menu-hover-background: #eee;
+
+    --breadcrumb-background: #ddd;
+
+    --footer-background: #ddd;
 }
 
 body {
@@ -25,4 +32,11 @@ header a {
 
 header a:visited {
     color: var(--text-color);
+}
+
+.right {
+    float: right;
+}
+.left {
+    float: left;
 }
