@@ -7,6 +7,7 @@ subtitle: ''
 
 ---
 # Introduction to OSOM
+
 <img class="right pad-left" src="/assets/img/operating-model-overview.png" alt="a diagram showing an overview of the basic parts of OSOM" title="OSOM Overview">
 
 The Organised Services Operating Model (OSOM) is a template operating
@@ -41,9 +42,7 @@ The [OSOM executive](/executive) governs the network of services and
 holds the managers of those services to account through various
 mechanisms documented in terms of reference.
 
-The executive also has a role in advocating and monitoring the
-adoption of [doctrine](/doctrine) throughout the organisation, which
-is a collection of 40 universally useful patterns of behaviour.
+The executive also has a role in advocating and monitoring the adoption of [guides to better decisions](/doctrine) throughout the organisation, which provides a collection of 40 universally useful patterns of behaviour that should be encouraged wherever possible.
 
 ### The service network
 
@@ -56,11 +55,13 @@ accountable for the service and the team required in all its lifecycle
 phases - from discovery until its eventual retirement.
 
 <!--
+
 ## Recent changes
 
 {% for article in collections.all limit:5 reversed %}
 {% if article.data.subtitle.length > 0 %}
+
 1. [{{ article.data.subtitle }}]({{ article.url }})
-{% endif %}
-{% endfor %}
--->
+   {% endif %}
+   {% endfor %}
+   \-->
