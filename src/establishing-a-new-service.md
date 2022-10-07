@@ -19,6 +19,6 @@ When the discovery concludes, the outcome should be presented to the executive w
 2. Define users & their needs
 3. Define metrics for each outcome
 4. Write service description
-5. List any known D&D service dependencies
+5. List any known service dependencies
 6. Consider the stage of evolution for service as a whole
 7. Assign a Service Manager
