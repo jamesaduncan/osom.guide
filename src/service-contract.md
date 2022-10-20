@@ -14,3 +14,5 @@ Each service has a service contract, and that contract explains the critical inf
 5. How the [performance of the service is measured](/measuring-service-performance/)
 6. How to get help when the service isn't performing as expected
 7. What other services the service depends upon
+
+There is a [template service contract](/service-contract-template) to help you get started.

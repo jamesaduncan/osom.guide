@@ -77,35 +77,41 @@ p {
 }
 */
 
-body {
+div#body {
     margin: 0;
     display: grid;
-    grid-template-columns: [side] 30vw [content] 40vw;
-    grid-template-rows: [head] 10rem [body] auto [foot] 10rem;
+    grid-template-columns: [side] minmax(20rem, 1fr) [content] 3fr;
+    grid-template-rows: [head] auto [body] auto [foot] 7rem;
 
     color: var(--text-color);
     background: var(--page-background);
 }
 
-body > header {
+div#body > header {
     grid-column: side / span 2;
+    display: flex;
+    flex-flow: column nowrap;
+    border-bottom: 2px solid var(--menu-hover-background);
+    margin-bottom: 1rem;
 }
 
-body > footer {
+div#body > footer {
     grid-column: side / span 2;
     font-size: .8em;
+    background: var(--footer-background);
 }
 
-body > footer > p {
+div#body > footer > p {
     margin-left: 1em;
     max-width: 60%;
 }
 
-body > main {
+div#body > main {
     margin: 0;
     padding: 0;
     border-left: 1px solid var(--menu-hover-background);
     padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 main > :first-child {
@@ -119,6 +125,24 @@ aside {
     padding-right: 1rem;
 }
 
+aside.hide {
+  display: none;
+}
+
+div#body > main.full-width {
+  grid-column: side / span 2;
+}
+
+/**
+* Header
+*/
+header > nav.top {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  gap: 10px;
+}
+
 header a {
     text-decoration: none;
 }
@@ -128,17 +152,25 @@ header a:visited {
 }
 
 main ol.footnotes-list {
+    /* TODO: is this class unused? */
     font-size: .75em;
     margin-left: 1em;
     list-style: decimal;
 }
 
 menu {
-    user-select: none;
+  user-select: none;
   background: var(--page-background);
   list-style: none;
   margin: 0;
   padding-left: 0;
+  flex-grow: 1;
+
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
 }
 
 
@@ -147,18 +179,19 @@ menu li {
   background: var(--page-background);
   display: block;
   float: left;
-  padding: 1rem;
+  padding: 1rem 1rem 0.5rem 1rem;
   position: relative;
   text-decoration: none;
   transition-duration: 0.5s;
 }
-  
+
 menu li a {
     color: var(--text-background);
 }
 
 menu li:hover,
 menu li:focus-within {
+  color: var(--menu-hover);
   background: var(--menu-hover-background);
   cursor: pointer;
 }
@@ -167,8 +200,28 @@ menu li:focus-within {
     background: var(--menu-current-background);
 }
 
+/* underline on hover */
+menu li > a::after,
+nav.toc li > a::after {
+  content: "";
+  display: block;
+  margin: auto;
+  height: 3px;
+  width: 0;
+  top: 5px;
+  background: transparent;
+  transition: all 0.3s;
+}
+menu li > a:hover::after,
+menu li > a.active-nav::after,
+nav.toc li > a:hover::after,
+nav.toc li > a.active-nav::after {
+  width: 100%;
+  background: var(--menu-hover-underline);
+}
+
 menu li menu {
-    border-left: 1px solid #eee;
+  border-left: 1px solid #eee;
   box-shadow: 2.5px 2.5px 2.5px #eee;
   background: var(--menu-background);
   visibility: hidden;
@@ -176,7 +229,7 @@ menu li menu {
   min-width: 20rem;
   position: absolute;
   transition: all 0.5s ease;
-  margin-top: 1rem;
+  margin-top: 0.5rem;
   left: 0;
   display: none;
 }
@@ -196,4 +249,69 @@ menu li menu li {
 
 menu li:focus-within a {
   outline: none;
+}
+
+.logo {
+  display: block;
+  width: 2em;
+  height: 2em;
+  background: url(/assets/img/operating-model-grey.svg);
+  background-size: 2em 2em;
+}
+
+.logo:hover {
+  display: block;
+  background: url(/assets/img/operating-model-colour.svg);
+}
+
+/**
+ * Aside TOC
+ */
+nav.toc ol {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+  margin: 0;
+  padding: 0;
+  
+  list-style: none;
+  font-size: 0.9rem;
+}
+
+nav.toc > ol {
+  background-color: #eee;
+  border-radius: 8px;
+  padding: 5px;
+}
+
+nav.toc li {
+  text-indent: 0;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid #fafafa;
+  width: 100%;
+}
+
+nav.toc > ol > li:first-child {
+  border-top: none;
+}
+
+nav.toc li > ol {
+  /* indent sub-menus */
+  margin-left: 1rem;
+}
+
+nav.toc li a {
+  text-decoration: none;
+  color: #446;
+}
+
+img.right {
+  padding-left: 2.5em;
+}
+
+img.left {
+  padding-right: 2.5em;
 }

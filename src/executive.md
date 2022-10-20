@@ -21,7 +21,7 @@ The executive has a number of roles and responsibilities in OSOM:
 6. Consider, publish and endorse guidance
 7. Endorse Communities of Practice
 8. Mediate between services
-9. Monitor and advocate advocate better decision making
+9. Monitor and advocate better decision making
 
 ## Establish, decommission, assess, alter, and hold services accountable
 

@@ -9,6 +9,8 @@ To help ensure the smooth running of a service network, the executive needs to a
 
 The primary purpose of the assessment is to understand how well the service meets the user needs, but it will also examine how the service is being managed and how well it has adopted the [behaviours](/doctrine).
 
+An agenda including the executive's chosen [assessment criteria](/service-assessment-criteria/) will be distributed in advance, and once assessed the executive will publish a [service assessment report](/service-assessment-report).
+
 While the purpose of the assessment remains the same, the nature of the assessment will change as the service progresses through the [lifecycle](/lifecycle/).
 
 ## After a discovery phase
@@ -46,5 +48,15 @@ When budgeting for an alpha phase, it is important to consider that an alpha pha
 In some organisations, it may be that the assessment is also the approval body for funding. In others, it may be that a separate case needs to be submitted to release money. From a process design standpoint, it is important that the time in between the assessment being conducted and the funding for alpha being made available should be as little as possible.
 
 ## After an alpha phase
+
+When the alpha phase ends, an assessment will need to be conducted to determine whether or not the service should proceed to the beta phase.
+
+During the alpha phase, various tools and technologies will have been assessed to determine whether or not the needs articulated in the services' contract _can_ be met.
+
+There are three possible outcomes of an alpha phase:
+
+1. There are no suitable ways to meet the need
+2. There are multiple ways to meet the need but the best way has yet to be determined
+3. The best way to meet the need has been determined, and the service should continue to its beta phase.
 
 {% include moresoon.html %}

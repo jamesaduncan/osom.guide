@@ -21,6 +21,7 @@ pages:
 - src/coe-document.md
 - src/coe.md
 - src/community-of-practice.md
+- src/demand-management.md
 - src/doctrine.md
 - src/establishing-a-new-service.md
 - src/evolution.md
@@ -31,6 +32,8 @@ pages:
 - src/measuring-service-performance.md
 - src/operating-model.md
 - src/policy.md
+- src/service-assessment-criteria.md
+- src/service-assessment-report.md
 - src/service-autonomy.md
 - src/service-contract.md
 - src/service-network.md
