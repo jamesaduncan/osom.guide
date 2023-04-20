@@ -9,7 +9,7 @@ There are two occasions likely to arise where a new service might be needed. The
 
 The second circumstance occurs when two or more existing services are addressing a need within their service boundary and the opportunity to remove duplication exists by consolidating that capability as a shared service that they - and other services could consume instead.
 
-To establish the service in both cases, a service contract should be drafted that documents the user needs, a service manager should be appointed and a budget allocated for the discovery [phase of development](/lifecycle/).
+To establish the service in both cases, a service contract should be drafted that documents the user needs, a {{ sm }} should be appointed by {{ exec }} and a budget allocated for the discovery [phase of development](/lifecycle/).
 
 When the discovery concludes, the outcome should be presented to the executive with the understanding that what has been learned may influence the contents of the service contract.
 
@@ -21,4 +21,4 @@ When the discovery concludes, the outcome should be presented to the executive w
 4. Write service description
 5. List any known service dependencies
 6. Consider the stage of evolution for service as a whole
-7. Assign a Service Manager
+7. Assign a {{ sm }}

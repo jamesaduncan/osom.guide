@@ -64,6 +64,10 @@ module.exports = function(eleventyConfig) {
     md.linkify.tlds('.io', false);
     eleventyConfig.setLibrary('md', md);
 
+    eleventyConfig.addFilter('ucfirst', (str) => {
+      return str[0].toUpperCase() + str.substring(1);
+    });
+  
     eleventyConfig.addFilter('lower', (str) => {
 	let theString = str+"";
 	return theString.toLowerCase();

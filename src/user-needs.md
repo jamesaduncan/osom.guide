@@ -31,7 +31,7 @@ This user need is a particularly good example, because it doesn't make assumptio
 
 Outcomes are encapsulated in the _why_ part of a user need, and [service metrics](/measuring-service-performance/) should be related the outcome.
 
-Often finding a good way to measure a particular outcome is challenging. From the example above, it might be hard to become immediately aware if someone was unable to prove their identity abroad. However, as long as the [executive ](/executive/)can agree, a proxy measure can be used as a substitute for a direct measure. 
+Often finding a good way to measure a particular outcome is challenging. From the example above, it might be hard to become immediately aware if someone was unable to prove their identity abroad. However, as long as [{{ exec }}](/executive/)can agree, a proxy measure can be used as a substitute for a direct measure. 
 
 In this case, it could be whether or not someone attempted to travel abroad having used the service.
 

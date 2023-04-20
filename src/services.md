@@ -5,7 +5,7 @@ tags:
 - concept
 
 ---
-OSOM services and the network of interactions they form are two key parts of OSOM, the other being the [executive](/executive).
+OSOM services and the network of interactions they form are two key parts of OSOM, the other being [{{ exec }}](/executive).
 
 The service network does the heavy lifting for the organisation. It delivers against the user needs that the organisation attempts to address for third parties or the needs that arise through tackling those.
 
@@ -17,7 +17,7 @@ Services have a contract they are required to meet and a budget with which to me
 
 ## Service governance
 
-To govern the network of services, the [executive](/executive) requires additional information about each service that helps them understand and make changes when needed.
+To govern the network of services, [{{ exec }}](/executive) requires additional information about each service that helps them understand and make changes when needed.
 
 1. A Wardley Map of how the service is delivered and the components it requires
 2. Performance data
