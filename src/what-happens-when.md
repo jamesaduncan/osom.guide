@@ -2,8 +2,9 @@
 layout: document
 tags: []
 subtitle: What happens when...
-
+_template: standard_document
 ---
+
 ## ...a service doesn't spend its budget
 
 When a service finds savings against its budget, it should be free to invest that budget elsewhere if needed.

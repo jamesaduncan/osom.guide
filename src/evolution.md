@@ -1,8 +1,9 @@
 ---
 layout: document
 subtitle: Evolution of services
-
+_template: standard_document
 ---
+
 An important concept from Wardley mapping that OSOM is built upon heavily is the idea of service evolution. Evolution and lifecycle are not the same; whereas lifecycle is the stage of development a service is at, evolution refers to the relationship between the organisation and the way it regards a service.
 
 [Novel](#novel) services are new and have never been done before. However, they are frequently composed of other services, some of which will be built around [bespoke](#bespoke) components, some around [products](#products), and still others that use [commodities](#commodity).

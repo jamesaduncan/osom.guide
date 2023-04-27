@@ -2,8 +2,9 @@
 layout: document
 tags: []
 subtitle: Service Assessment Criteria
-
+_template: standard_document
 ---
+
 When conducting a [service assessment](/assessments), the executive is free to choose which criteria to judge a service by. They are usually based on the [guides to better decisions](/doctrine) and any relevant [guidance](/executive/#consider-publish-and-endorse-guidance) or [mandates](/executive/#issue-mandates-to-manipulate-the-service-network). They are also influenced by the nature of the service and its current [lifecycle stage](/lifecycle).
 
 The criteria used are included in the [service assessment report](/service-assessment-report).

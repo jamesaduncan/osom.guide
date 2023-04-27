@@ -1,10 +1,11 @@
 ---
 layout: document
 tags:
-- concept
+  - concept
 subtitle: Service Network
-
+_template: standard_document
 ---
+
 A service-based organisation is arranged using a network of [services](/services).
 
 The services in the network meet the needs of external users (customers) or internal users (other services).

@@ -1,10 +1,11 @@
 ---
 layout: document
 tags:
-- people
+  - people
 subtitle: Executive Team Member
-
+_template: standard_document
 ---
+
 Members of {{ execgroup }} have authority delegated to them by {{ exec }} who may task them with areas of interest as they see fit.
 
 However, when members of {{ execgroup }} act, they do so entirely in the scope of {{ exec }}’s accountability and responsibility and have no individual portfolio of their own _per se_.

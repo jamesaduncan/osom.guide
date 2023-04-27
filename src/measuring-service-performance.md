@@ -2,9 +2,10 @@
 layout: document
 subtitle: Service Performance Measures
 tags:
-- artefact
-
+  - artefact
+_template: standard_document
 ---
+
 All services should define measurements that help people understand if the service is performing as it should. 
 
 When deciding upon which metrics are most appropriate for a service, consider the [user needs](/user-needs) that the service meets. A metric that is suitable for inclusion in the service contract is typically one that is directly relatable to those needs.

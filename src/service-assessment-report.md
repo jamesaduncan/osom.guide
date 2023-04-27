@@ -2,8 +2,9 @@
 layout: document
 tags: []
 subtitle: Service Assessment Report
-
+_template: standard_document
 ---
+
 Service assessment reports are published in a repository visible to everybody in the service network by the executive after each assessment. They contain:
 
 * **Assessment date**

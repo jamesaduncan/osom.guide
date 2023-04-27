@@ -1,10 +1,11 @@
 ---
 layout: document
 tags:
-- people
+  - people
 subtitle: Service Team Members
-
+_template: standard_document
 ---
+
 Service teams are made up of team members. Team members may be in any profession, and of any discipline.
 
 Service team members are appointed by a [{{ sm }}](/service-managers), or by the management structure appointed by the {{ sm }}. The line management of service team members also follows this organisation as well as any associated processes, such as performance management.

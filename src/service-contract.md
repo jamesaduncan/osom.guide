@@ -1,10 +1,11 @@
 ---
 layout: document
 tags:
-- artefact
+  - artefact
 subtitle: Service Contract
-
+_template: standard_document
 ---
+
 Each service has a service contract, and that contract explains the critical information about the service:
 
 1. What the service is and the [user needs](/user-needs) it meets

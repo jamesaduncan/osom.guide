@@ -2,9 +2,10 @@
 layout: document
 subtitle: Making better decisions
 tags:
-- concept
-
+  - concept
+_template: standard_document
 ---
+
 OSOM builds upon and endorses a set of guides to better decisions known as "Wardley's Doctrine".
 
 Simon Wardley's doctrine is a collection of patterns that were carefully researched from the world's most successful organisations, and have been used to evaluate and then underpin its approach to improving organisations, and ultimately to develop [OSOM](/)

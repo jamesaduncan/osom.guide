@@ -1,11 +1,12 @@
 ---
 layout: document
 tags:
-- homepage
+  - homepage
 hideaside: true
 subtitle: ''
-
+_template: standard_document
 ---
+
 # Introduction to OSOM
 
 <img class="right pad-left" src="/assets/img/operating-model-overview.png" alt="a diagram showing an overview of the basic parts of OSOM" title="OSOM Overview">

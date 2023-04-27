@@ -1,10 +1,11 @@
 ---
 layout: document
 tags:
-- processes
+  - processes
 subtitle: Demand Management
-
+_template: standard_document
 ---
+
 Demand management in {{ modelname }} is a simple set of steps that is undertaken whenever there is a proposal for a set of needs not currently met by the [service network](/service-network/).
 
 [{{ exec }}](/executive/) should consider the following questions:

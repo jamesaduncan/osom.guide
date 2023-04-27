@@ -1,10 +1,11 @@
 ---
 layout: document
 tags:
-- artefact
+  - artefact
 subtitle: Correction of Error document
-
+_template: standard_document
 ---
+
 A Correction of Error (CoE) document should be published by the [Service Manager](/services/#service-managers) for the service to which it applies. A CoE document should be published whenever a problem occurs - it shouldn't be necessary for the problem to have impacted the users of the service.
 
 The CoE document should contain:

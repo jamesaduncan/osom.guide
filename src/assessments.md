@@ -2,9 +2,9 @@
 layout: document
 subtitle: Service Assessments
 tags:
-- processes
-
+  - processes
 ---
+
 To help ensure the smooth running of a service network, {{ exec }} needs to assess each [service](/services/) regularly. This assessment can be conducted directly by the executive or delegated to a team of experts assembled for the task.
 
 The primary purpose of the assessment is to understand how well the service meets the user needs, but it will also examine how the service is being managed and how well it has adopted the [behaviours](/doctrine).
@@ -41,7 +41,7 @@ An incremental funding model will often result in small, focused efforts rather 
 
 When a service is ready to progress to alpha it has identified the needs it intends to address. This means the service contract has been clarified and updated where needed to reflect the latest understanding of the problem.
 
-In order to progress to alpha, a budget will need to be allocated so that the service has appropriate funding. This _should_ be a consideration of the discovery phase.
+In order to progress to alpha, a budget will need to be allocated so that the service has appropriate funding. This *should* be a consideration of the discovery phase.
 
 When budgeting for an alpha phase, it is important to consider that an alpha phase explores possible answers to the user needs, with the expectation that some of those answers will be unsuccessful.
 
@@ -51,7 +51,7 @@ In some organisations, it may be that the assessment is also the approval body f
 
 When the alpha phase ends, an assessment will need to be conducted to determine whether or not the service should proceed to the beta phase.
 
-During the alpha phase, various tools and technologies will have been assessed to determine whether or not the needs articulated in the services' contract _can_ be met.
+During the alpha phase, various tools and technologies will have been assessed to determine whether or not the needs articulated in the services' contract *can* be met.
 
 There are three possible outcomes of an alpha phase:
 

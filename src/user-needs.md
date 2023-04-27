@@ -2,9 +2,10 @@
 layout: document
 subtitle: User Need
 tags:
-- concept
-
+  - concept
+_template: standard_document
 ---
+
 An organisation should be able to list the users it has, and the needs of those users that it strives to meet.
 
 To understand the total activity of an organisation, the only thing necessary is to enumerate all of the needs.
