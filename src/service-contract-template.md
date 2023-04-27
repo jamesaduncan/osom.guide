@@ -14,6 +14,7 @@ subtitle: Service Contract Template
 _write description here_
 
 Define:
+ - Brief overview of what the service is
  - What the business benefit is
  - How the service is used
  - How customers engage (eg: On-board / Off-board at a high level)
@@ -21,22 +22,15 @@ Define:
  - How to get help when the service isn't performing as expected
 
 ## User Needs
-As a _user_  
+As a __User A__ or __User B__  
 I need _some activity or thing_  
-so that _I can achieve this outcome_
+so that _I can achieve outcome XYZ_
 
 Metrics:
- - … (define metrics that show how this outcome is met)
-
-As a _user A_ or _user B_  
-I need _xyz_  
-so that _outcome_
-
-## Service Measures
- - _define aggregate metrics that show how this outcome is met_
+ - _define metrics that show how this outcome is met_
 
 Define:
- - What user needs this services exists to meet
+ - What user needs this services exists to meet (using template above)
  - High level, not fine-grained requirements (eg: if you find you’re writing out steps in a process you’re likely going too deep!)
  - You don’t need to write out an onboarding / offboarding need.
  - If your service meets any targets (eg: availability ≥ 99.999%), write that as a need
