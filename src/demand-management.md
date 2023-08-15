@@ -16,4 +16,4 @@ Demand management in {{ modelname }} is a simple set of steps that is undertaken
 2. {{ exec | ucfirst }} should consider whether or not they want the organisation to meet the proposed needs.   
      
    If it is determined that the needs should be met, or considered in more detail, go to step 3.
-3. A new service, in [Discovery](/lifecycle/#discovery), [should be established](/establishing-a-new-service/).
+3. A new service in [Discovery](/lifecycle/#discovery) [should be established](/establishing-a-new-service/).
