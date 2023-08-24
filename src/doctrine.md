@@ -125,7 +125,7 @@ building one from scratch.
 
 After we've built things, we need to run them.
 
-In this section, we'll consider the various doctrine patterns that impact most strongly on our operations. Are we all over the things that we need to know about?  Do we know why we are doing certain things in certain ways? Do we allow that there might be new and better approaches for things we're already doing?
+In this section, we'll consider the various guides that impact most strongly on our operations. Are we all over the things that we need to know about?  Do we know why we are doing certain things in certain ways? Do we allow that there might be new and better approaches for things we're already doing?
 
 Do we build the expectation of failure into how we operate? And do we try to set exceptional standards in everything we do?
 
