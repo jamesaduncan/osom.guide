@@ -8,7 +8,7 @@ _template: standard_document
 
 OSOM builds upon and endorses a set of guides to better decisions known as "Wardley's Doctrine".
 
-Simon Wardley's doctrine is a collection of patterns that were carefully researched from the world's most successful organisations, and have been used to evaluate and then underpin its approach to improving organisations, and ultimately to develop [OSOM](/)
+Simon Wardley's doctrine is a collection of patterns that were carefully researched from the world's most successful organisations, and have been used to evaluate and then underpin its approach to improving organisations, and ultimately to develop [OSOM](/). OSOM refers to them as a set of guides to making better decisions.
 
 The decision guides don’t inform us of the precise steps that need to be taken, but they do help us to understand how we’d prefer to see an organisation act: whether it’s assumptions being challenged freely and often, ensuring the user needs are focused upon, embracing uncertainty, or using failure as a tool, amongst others.
 
@@ -125,7 +125,7 @@ building one from scratch.
 
 After we've built things, we need to run them.
 
-In this section, we'll consider the various doctrine patterns that impact most strongly on our operations. Are we all over the things that we need to know about?  Do we know why we are doing certain things in certain ways? Do we allow that there might be new and better approaches for things we're already doing?
+In this section, we'll consider the various guides that impact most strongly on our operations. Are we all over the things that we need to know about?  Do we know why we are doing certain things in certain ways? Do we allow that there might be new and better approaches for things we're already doing?
 
 Do we build the expectation of failure into how we operate? And do we try to set exceptional standards in everything we do?
 
@@ -157,7 +157,7 @@ We strive to improve continuously. Do we set exceptional standards? We strive fo
 
 ## Learning
 
-Building methods of learning into the organization is essential to improve our organization. These doctrine patterns lead us towards that.
+Building methods of learning into the organization is essential to improve our organization. These patterns lead us towards that.
 
 When in doubt, we do something. Not because we know it is the right answer, but because it might be.
 
