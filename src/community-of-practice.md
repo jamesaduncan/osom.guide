@@ -16,4 +16,4 @@ A Community of Practice issues or endorses professional guidance, relevant to it
 
 A Community of Practice ensures that new opportunities in the service network are visible and available to practitioners. The Community of Practice should work with service managers to identify individual practitioners of a profession that could be a good fit for any given service team.
 
-{% include moresoon.html %}
+{% include "./moresoon.html" %}

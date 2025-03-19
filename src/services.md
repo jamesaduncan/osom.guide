@@ -25,4 +25,4 @@ To govern the network of services, [{{ exec }}](/executive) requires additional 
 3. The guidance that the service manager has rejected
 4. [Correction of Error documents](/coe-document/) as they are created
 
-{% include moresoon.html %}
+{% include "./moresoon.html" %}
